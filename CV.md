@@ -43,11 +43,17 @@ _Mar 2022 - Jan 2023_
 **DareData, Lisbon**
 _DATA ENGINEER - AICEP_
 
-_March 2022 - Present_
+_March 2022 - June 2022_
 
 - Developed a web application to process and search documents, with NLP and Computer Vision, achieving a 75% increase in document availability for search with Elasticsearch.
 - Wrote ETL processes with Airflow on Google Cloud Composer.
 - Deployed neo4j and Elasticsearch services to GCP.
+- Performed cost and feature analysis of different source control providers.
+
+_DATA ENGINEER - NOS_
+_Nov 2021 - April 2022_
+- Built data ingestion pipelines using a bespoke framework with Oracle SQL, bash, Hive.
+- Facilitated cross-team knowledge sharing, creating learning materials that reduced Data Engineer's onboarding time by 3 months.
 
 **Bond Touch, Lisbon**
 _DATA SCIENTIST/ENGINEER_
