@@ -1,0 +1,23 @@
+% Prevent hyphenation
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\sloppy
+
+% Define the dark blue color
+\usepackage{xcolor}
+\definecolor{darkblue}{RGB}{0,0,139}
+
+% Use titlesec package to redefine the section headers
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{darkblue}}{}{0em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\color{darkblue}}{}{0em}{}
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries\color{darkblue}}{}{0em}{}
+
+% If you want to change the font of the headers, replace 'Helvetica' with your font of choice
+\usepackage{fontspec}
+\setmainfont{Helvetica}
+\setsansfont{Helvetica}
+\setmonofont{Courier New}
