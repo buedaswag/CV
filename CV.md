@@ -66,6 +66,13 @@ _Feb 2020 - July 2021_
 - Deployed a company-wide business intelligence solution (Chartio) and defined Key Performance Indicators with decision-makers.
 - Applied NLP to customer surveys and built an internal tool for Customer Support using Django, MongoDB, SQL, AWS ECS, Fargate, and Terraform.
 
+**Mobipium, Lisbon**
+_INTERN DATA SCIENTIST_
+
+_Jan 2019 - Apr 2019_
+
+- Built a Machine Learning pipeline on AWS EC2 to predict Key Performance Indicators for advertising campaigns.
+
 ---
 
 ### Education
