@@ -32,20 +32,25 @@ _Oct 2022 - Present_
 **Lisbon Data Science Academy, Lisbon**
 _LEAD DEVOPS ENGINEER (300+ STUDENTS)_
 _Mar 2022 - Jan 2023_
-- Managed a DevOps team to refine and maintain educational infrastructure, resulting in enhanced system reliability and student learning experience.
-- Developed a dashboard for real-time tracking of student submissions, fostering an interactive educational environment.
+- Managed a DevOps team, improving infrastructure with Django, Kubernetes, and AWS.
+- Built and deployed tools for students using Python, FastAPI, and Docker.
+- Developed a system to collect student submissions, presented in a Django-based dashboard, deployed to AWS Fargate.
 
 **DareData, Lisbon**
 _DATA ENGINEER - AICEP_
 _March 2022 - Present_
-- Implemented a web application with NLP to process and search documents, achieving a 75% increase in document availability for search.
-- Streamlined ETL processes, leading to more efficient data management and processing.
+- Developed a web application to process and search documents, with NLP and Computer Vision, achieving a 75% increase in document availability for search with Elasticsearch.
+- Wrote ETL processes with Airflow on Google Cloud Composer.
+- Deployed neo4j and Elasticsearch services to GCP.
 
 **Bond Touch, Lisbon**
 _DATA SCIENTIST/ENGINEER_
 _Feb 2020 - July 2021_
-- Conducted comprehensive data analysis for user engagement, providing actionable insights to inform product development.
-- Established a modern cloud Data Warehouse, significantly enhancing data analytics capabilities.
+- Mined data for insights to drive product decisions, managing a Data Warehouse with AWS EC2, Firehose, S3, Snowflake, and Terraform.
+- Developed data collection on Android devices and cloud infrastructure for data reception.
+- Built Data Marts to serve specific business use cases, working closely with product and marketing teams for reports and dashboards.
+- Deployed a company-wide business intelligence solution (Chartio) and defined Key Performance Indicators with decision-makers.
+- Applied NLP to customer surveys and built an internal tool for Customer Support using Django, MongoDB, SQL, AWS ECS, Fargate, and Terraform.
 
 ---
 
@@ -71,29 +76,15 @@ _Jul 2019 - Mar 2020_
 ### Projects
 
 **Jobs Dashboard**
-_Nov 2020 - Present_
-- Developing a reporting tool for job market analytics, aiming to provide valuable insights for job seekers.
+_Nov 2020 - Feb 2020_
+- Developing a Web Scraping and reporting tool for job market analytics, utilizing Digdag, Nginx, AWS EC2, and Terraform.
 
 **Magic the Gathering Analytics**
 _Oct 2019 - Dec 2019_
-- Created a dashboard for collectors, offering market insights and trends for informed decision-making.
-
----
-
-### Key Achievements
-- Recognized for leading a team to win an innovation award in a competitive hackathon.
-- Successfully enhanced document search capabilities through the application of computer vision techniques.
-
----
-
-### Professional Development
-- Engage in continuous learning through workshops on the latest cloud technologies and DevOps practices.
-- Active in the tech community, participating in coding hackathons and meetups to stay abreast of industry trends.
+- Created a dashboard for collectors, scraping data with Python, storing in PostgreSQL, and deploying with Flask and Apache.
 
 ---
 
 ### Languages
 - Portuguese (Native)
 - English (Fluent)
-
-*References available upon request.*
