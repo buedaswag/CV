@@ -38,7 +38,24 @@ _Mar 2022 - Jan 2023_
 
 - Managed a DevOps team, improving infrastructure with Django, Kubernetes, and AWS.
 - Built and deployed tools for students using Python, FastAPI, and Docker.
-- Developed a system to collect student submissions, presented in a Django-based dashboard, deployed to AWS Fargate.
+- Developed a Django REST framework API to collect student submissions, presented in a Django-based dashboard, deployed to AWS Fargate.
+
+_DEVOPS ENGINEER_
+
+_Mar 2020 - Mar 2022_
+
+- Authored a comprehensive guide on setting up a professional Python development environment, providing ongoing support to students.
+- Implemented CI/CD pipelines for testing, releasing, and automatic grading of learning materials.
+
+_DATA SCIENCE INSTRUCTOR_
+
+_Mar 2020 - Present_
+
+- Oversaw a team of data scientists in creating and deploying educational content and tools, offering support to students.
+- Designed and conducted a Data Wrangling for Machine Learning Specialization hackathon.
+- Provided mentorship during hackathons, assisting students with technical and machine learning inquiries.
+- Conducted quality assurance for the Python Prep Course materials, ensuring high educational standards.
+
 
 **DareData, Lisbon**
 _DATA ENGINEER - AICEP_
@@ -96,7 +113,9 @@ _DATA SCIENCE BOOTCAMP_
 
 _Jul 2019 - Mar 2020_
 
-- Actively participated in quality assurance and collaborative hackathons, solving industry-based problems.
+- Acted as a "Student QA" in the Quality Assurance process for learning units, ensuring the accuracy and clarity of educational content.
+- Mastered practical exercises and projects in Binary Classification, Data Wrangling, Time Series Forecasting, NLP, and Recommender Systems.
+- Collaborated in five 6h‐long team-based hackathons, tackling real-life industry problems with Machine Learning, which honed problem-solving and teamwork skills.
 
 ---
 
@@ -104,7 +123,7 @@ _Jul 2019 - Mar 2020_
 
 **Jobs Dashboard**
 
-_Nov 2020 - Feb 2020_
+_Nov 2020 - Feb 2021_
 
 - Developing a Web Scraping and reporting tool for job market analytics, utilizing Digdag, Nginx, AWS EC2, and Terraform.
 
