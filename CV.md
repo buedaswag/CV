@@ -22,6 +22,7 @@ Dedicated software engineer with a strong background in cloud infrastructure, da
 ### Work Experience
 
 **RELEX Solutions, Berlin**
+
 _CLOUD INFRASTRUCTURE ENGINEER_
 
 _Oct 2022 - Present_
@@ -32,6 +33,7 @@ _Oct 2022 - Present_
 - Collaborative Team Culture: Contributed to a team environment that values listening, consensus-building, and collaboration.
 
 **Lisbon Data Science Academy, Lisbon**
+
 _LEAD DEVOPS ENGINEER (900+ STUDENTS)_
 
 _Mar 2022 - Jan 2023_
@@ -49,7 +51,7 @@ _Mar 2020 - Mar 2022_
 
 _DATA SCIENCE INSTRUCTOR_
 
-_Mar 2020 - Present_
+_Mar 2020 - Jan 2023_
 
 - Oversaw a team of data scientists in creating and deploying educational content and tools, offering support to students.
 - Designed and conducted a Data Wrangling for Machine Learning Specialization hackathon.
@@ -58,6 +60,7 @@ _Mar 2020 - Present_
 
 
 **DareData, Lisbon**
+
 _DATA ENGINEER - AICEP_
 
 _March 2022 - June 2022_
@@ -73,6 +76,7 @@ _Nov 2021 - April 2022_
 - Facilitated cross-team knowledge sharing, creating learning materials that reduced Data Engineer's onboarding time by 3 months.
 
 **Bond Touch, Lisbon**
+
 _DATA SCIENTIST/ENGINEER_
 
 _Feb 2020 - July 2021_
@@ -84,6 +88,7 @@ _Feb 2020 - July 2021_
 - Applied NLP to customer surveys and built an internal tool for Customer Support using Django, MongoDB, SQL, AWS ECS, Fargate, and Terraform.
 
 **Mobipium, Lisbon**
+
 _INTERN DATA SCIENTIST_
 
 _Jan 2019 - Apr 2019_
@@ -95,6 +100,7 @@ _Jan 2019 - Apr 2019_
 ### Education
 
 **University of Lisbon, Lisbon**
+
 _GRADUATE WORK TOWARDS MASTERS IN DATA SCIENCE_
 
 _Sep 2018 - Dec 2019_
@@ -109,6 +115,7 @@ _Sep 2014 - Jul 2019_
 - Completed a comprehensive curriculum in software engineering with a focus on security, reliability, and software architecture patterns.
 
 **Lisbon Data Science Starters Academy, Lisbon**
+
 _DATA SCIENCE BOOTCAMP_
 
 _Jul 2019 - Mar 2020_
