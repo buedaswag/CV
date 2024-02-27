@@ -11,10 +11,10 @@ Dedicated software engineer with a strong background in cloud infrastructure, da
 ---
 
 ### Technical Skills
-- **Programming**: Python, Java, C, SQL
+- **Programming**: Python, Java, Kotlin, C, SQL, MongoDB, R
 - **Data Science Tools**: Jupyter, Pandas, NumPy, scikit-learn, spaCy, Matplotlib
-- **Data Engineering**: Snowflake, Airflow, Digdag, Nginx
-- **Web Development**: HTML/CSS/JavaScript, Flask, FastAPI, Django, Django REST framework, Streamlit
+- **Data Engineering**: Snowflake, Airflow, Digdag, Spark, Kafka
+- **Web Development**: HTML/CSS/JavaScript, Nginx, Flask, FastAPI, Django, Django REST framework, Streamlit
 - **DevOps & Cloud**: Docker, Kubernetes, AWS, Azure, GCP, Terraform, DataDog
 
 ---
@@ -147,3 +147,4 @@ _Oct 2019 - Dec 2019_
 ### Languages
 - Portuguese (Native)
 - English (Fluent)
+- German (A1)
