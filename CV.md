@@ -1,6 +1,6 @@
 # Miguel Dias
 ## SOFTWARE ENGINEER
-Lisbon, Portugal
+Berlin, Germany
 (+351) 910873042 |  miguel.dias.1212@gmail.com |  [linkedin.com/in/migueldias1212](www.linkedin.com/in/migueldias1212)
 
 ---
