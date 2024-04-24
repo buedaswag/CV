@@ -1,7 +1,7 @@
 # Miguel Dias
 ## SOFTWARE-INGENIEUR
 Berlin, Deutschland
-(+351) 910873042 | miguel.dias.1212@gmail.com | [linkedin.com/in/migueldias1212](www.linkedin.com/in/migueldias1212)
+(+49) 162 9556817 | miguel.dias.1212@gmail.com | [linkedin.com/in/migueldias1212](www.linkedin.com/in/migueldias1212)
 
 ---
 
