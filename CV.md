@@ -6,7 +6,7 @@ Berlin, Germany
 ---
 
 ### Summary
-Dedicated software engineer with a strong background in cloud infrastructure, data engineering, and DevOps. Proven track record of automating processes, resolving critical incidents, and leading teams to enhance productivity. Eager to apply technical expertise and collaborative skills in a dynamic environment.
+Dedicated software engineer with a strong background in Cloud Infrastructure, Data Engineering, and DevOps. Proven track record of automating processes, resolving critical incidents, and leading teams to enhance productivity. Eager to apply technical expertise and collaborative skills in a dynamic environment.
 
 ---
 
@@ -27,6 +27,7 @@ _CLOUD INFRASTRUCTURE ENGINEER_
 
 _Oct 2022 - Present_
 
+- Reduced Deployment Lead Time by 95% from 22 days to less than 1 day by Conducting a Value Stream Mapping workshop, mobilizing the team towards improvement and implementing it.
 - Automated Cloud Provisioning: Developed a Django application to automate cloud infrastructure setup with Terraform and Python, enhancing the migration process and deployment efficiency.
 - Cloud Monitoring Implementation: Deployed an Azure-based logging pipeline with Event Hub, Functions, and Datadog, enhancing operational oversight and response capabilities.
 - Cost-Efficient Data Transfer: Orchestrated the design of a file pull/push solution using Azure Data Factory, optimizing data transfer costs and efficiency across multiple cloud platforms. Conducted comprehensive cost-analysis to maximize client savings.
