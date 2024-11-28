@@ -1,21 +1,29 @@
 # Miguel Dias
+
 ## SOFTWARE ENGINEER
+
 Berlin, Germany
-(+351) 910873042 |  miguel.dias.1212@gmail.com |  [linkedin.com/in/migueldias1212](www.linkedin.com/in/migueldias1212)
+(+351) 910873042 | miguel@migueldias.eu | [linkedin.com/in/migueldiaseu](www.linkedin.com/in/migueldiaseu)
 
 ---
 
 ### Summary
-Dedicated software engineer with a strong background in Cloud Infrastructure, Data Engineering, and DevOps. Proven track record of automating processes, resolving critical incidents, and leading teams to enhance productivity. Eager to apply technical expertise and collaborative skills in a dynamic environment.
+
+I drive Continuous Improvement by helping teams align day-to-day work with customer value and organizational goals.
+
+I conduct Value Stream Mapping workshops to improve Software Delivery processes, leading to faster deployments, higher quality, and reduced downtime for customers.
+
+To achieve these benefits, I leverage my diverse background in DevOps, Cloud Infrastructure, Data Engineering and Analytics, in large organizations, startups, and nonprofits.
 
 ---
 
 ### Technical Skills
+
 - **Programming**: Python, Java, Kotlin, C, SQL, MongoDB, R
 - **Data Science**: Jupyter, Pandas, NumPy, scikit-learn, spaCy, Matplotlib
 - **Data Engineering**: Snowflake, Airflow, Digdag, Spark, Kafka
 - **Web Development**: HTML/CSS/JavaScript, Nginx, Flask, FastAPI, Django, Django REST framework, Streamlit
-- **DevOps & Cloud**: Docker, Kubernetes, AWS, Azure, GCP, Terraform, DataDog
+- **DevOps & Cloud**: Docker, Kubernetes, AWS, Azure, GCP, Terraform, DataDog, Grafana
 
 ---
 
@@ -23,11 +31,24 @@ Dedicated software engineer with a strong background in Cloud Infrastructure, Da
 
 **RELEX Solutions, Berlin**
 
+_LEAN MANAGEMENT CONSULTANT_
+
+_Oct 2022 - Jun 2024_
+
+- Added measurable value by
+  - Reducing Deployment Lead Time in Project A by 64%, from 28 days to 10 days
+  - Reducing Deployment Lead Time in Project B by 68%, from 22 days to 7 days
+- Improving collaboration across different teams.
+- Helping multiple teams to identify and remove main bottlenecks in delivering value to customers.
+- End-to-end visualization and measurement of the software delivery process.
+- Alignment of teams towards the common goal of delivering increased customer value.
+
+**RELEX Solutions, Lisbon**
+
 _CLOUD INFRASTRUCTURE ENGINEER_
 
-_Oct 2022 - Present_
+_Oct 2022 - Jun 2024_
 
-- Reduced Deployment Lead Time by 95% from 22 days to less than 1 day by Conducting a Value Stream Mapping workshop, mobilizing the team towards improvement and implementing it.
 - Automated Cloud Provisioning: Developed a Django application to automate cloud infrastructure setup with Terraform and Python, enhancing the migration process and deployment efficiency.
 - Cloud Monitoring Implementation: Deployed an Azure-based logging pipeline with Event Hub, Functions, and Datadog, enhancing operational oversight and response capabilities.
 - Cost-Efficient Data Transfer: Orchestrated the design of a file pull/push solution using Azure Data Factory, optimizing data transfer costs and efficiency across multiple cloud platforms. Conducted comprehensive cost-analysis to maximize client savings.
@@ -58,7 +79,6 @@ _Mar 2020 - Jan 2023_
 - Designed and conducted a Data Wrangling for Machine Learning Specialization hackathon.
 - Provided mentorship during hackathons, assisting students with technical and machine learning inquiries.
 - Conducted quality assurance for the Python Prep Course materials, ensuring high educational standards.
-
 
 **DareData, Lisbon**
 
@@ -146,6 +166,8 @@ _Oct 2019 - Dec 2019_
 ---
 
 ### Languages
+
 - Portuguese (Native)
 - English (Fluent)
 - German (A1)
+- French (A1)
