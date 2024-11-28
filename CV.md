@@ -33,7 +33,7 @@ To achieve these benefits, I leverage my diverse background in DevOps, Cloud Inf
 
 _LEAN MANAGEMENT CONSULTANT_
 
-_Oct 2022 - Jun 2024_
+_Jun 2024 - present_
 
 - Added measurable value by
   - Reducing Deployment Lead Time in Project A by 64%, from 28 days to 10 days
