@@ -1,6 +1,6 @@
 # Miguel Dias
 
-## SOFTWARE ENGINEER
+## DevOps Management Consultant
 
 Berlin, Germany
 
