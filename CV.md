@@ -1,6 +1,6 @@
 # Miguel Dias
 
-## DevOps Management Consultant
+## DevOps Consultant
 
 Berlin, Germany
 
