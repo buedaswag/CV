@@ -38,16 +38,16 @@ _Jun 2024 - Feb 2025_
   - **Doubled deployment frequency from monthly to weekly**
   - Improving collaboration across different teams.
   - Conducted root cause analysis, improving incident impact/downtime.
-  - **Adressing quality problems at the source** for permanent solutions instead of quick fixes that don't stick.
+  - **Addressing quality problems at the source** for permanent solutions instead of quick fixes that don't stick.
 - Helping multiple teams to apply DevOps principles, removing bottlenecks and delivering more value to the customer.
 - End-to-end visualization and measurement of the software delivery process.
 - Alignment of teams towards the common goal of delivering increased customer value.
 
 **Testimonial: Jukka, Director of Engineering**
 
-* “**We just had to join the workshops and get immediate value from them.**”
-* “**We invested a bit, but the outcome is huge**. Even if no further actions are taken, **simply doing the workshops shows you what the bottlenecks are, what's slowing you down, and what is hurting the processes.**”
-* “It refocused our conversation on value exchange with the customer”.
+* "**We just had to join the workshops and get immediate value from them.**"
+* "**We invested a bit, but the outcome is huge**. Even if no further actions are taken, **simply doing the workshops shows you what the bottlenecks are, what's slowing you down, and what is hurting the processes.**"
+* "It refocused our conversation on value exchange with the customer".
 
 **RELEX Solutions, Lisbon**
 
@@ -59,7 +59,7 @@ _Oct 2022 - Jun 2024_
 - **Automated Cloud Provisioning**: Developed a Django application allowing the team to automate cloud infrastructure in Azure, setup with Terraform and Python, **accelerating the provisioning process from days to minutes**.
 - **Cloud Monitoring Implementation**: Deployed an Azure-based, event-driven logging pipeline integrated with Datadog, with automated alerts, creating the essential capability to respond to incidents in real time.
 - **Cloud Data Transfer**: Designed and implemented a file pull/push solution using Azure Data Factory, enabling data transfer capabilities across multiple cloud platforms. Conducted comprehensive analysis and communicated it across the organization.
-- Collaborative Team Culture: Contributed to a team environment that values listening, collaboration and technical excelence.
+- Collaborative Team Culture: Contributed to a team environment that values listening, collaboration and technical excellence.
 
 **Lisbon Data Science Academy, Lisbon**
 
@@ -70,7 +70,7 @@ _Mar 2022 - Jan 2023_
 - **Led the engineering team and managed our internal education portal**, providing education services to our students
   - hackathons, submissions, teams and scoreboards
   - homework and capstone assignment validation and scoring
-  - the lifecycle of a student at the accademy
+  - the lifecycle of a student at the academy
 - Maintained our infrastructure with Django, Kubernetes, and AWS.
 - Built and deployed tools for students using Python, FastAPI, and Docker.
 - Developed a Django REST framework API to collect student submissions, presented in a Django-based dashboard, deployed to AWS Fargate.
