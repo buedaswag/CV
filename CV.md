@@ -10,7 +10,7 @@ Berlin, Germany
 
 ### Summary
 
-I help organizations deliver software faster, with higher quality with DevOps and Value Stream Mapping.
+I help teams deliver software faster, with higher quality with DevOps and Value Stream Mapping.
 
 Leveraging my diverse background in DevOps, Cloud Infrastructure, Data Engineering and Analytics, in large organizations, startups, and a nonprofit.
 
