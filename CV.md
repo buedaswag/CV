@@ -4,24 +4,22 @@
 
 Berlin, Germany
 
-(+351) 910873042 | miguel@migueldias.eu | [linkedin.com/in/migueldiaseu](www.linkedin.com/in/migueldiaseu) | [migueldias.eu](migueldias.eu)
+(+351) 910873042 | miguel@migueldias.eu | [linkedin.com/in/migueldiaseu](www.linkedin.com/in/migueldiaseu) | [migueldias.eu](www.migueldias.eu)
 
 ---
 
 ### Summary
 
-I help organizations deploy software more often, with higher quality and fewer problems with Value Stream Mapping and DevOps.
+I help organizations deliver software faster, with higher quality with DevOps and Value Stream Mapping.
 
-I leverage a diverse background in DevOps, Cloud Infrastructure, Data Engineering and Analytics, in large organizations, startups, and a nonprofit.
+Leveraging my diverse background in DevOps, Cloud Infrastructure, Data Engineering and Analytics, in large organizations, startups, and a nonprofit.
 
 Common challenges addressed:
 
-- Onboard new customers faster for growing demand
-- Catch quality problems in testing, not in production
-- Deliver software more often
-- Reduce back-and-forth communication by simplifying processes
-- Reduce delays and re-work
-- Waste less time
+- Releases cause expensive disruptions, losing customers
+- Slow onboarding loses deals
+- Can’t deliver features fast enough to stay competitive, close deals
+- 25–50% of team time spent fixing customer problems
 
 ---
 
@@ -124,7 +122,7 @@ _DATA ENGINEER - NOS_
 _Nov 2021 - April 2022_
 
 - Built data ingestion pipelines using a bespoke framework with Oracle SQL, bash, Hive.
-- Facilitated cross-team knowledge sharing, creating learning materials that **reduced Data Engineer's onboarding time by 3 months**.
+- Facilitated cross-team knowledge sharing, creating learning materials that **reduced Data Engineers' onboarding time by 3 months**.
 
 **Bond Touch, Lisbon**
 
