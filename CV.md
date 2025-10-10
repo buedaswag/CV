@@ -10,9 +10,11 @@ Berlin, Germany
 
 ### Summary
 
-I help teams deliver software faster, with higher quality with DevOps and Value Stream Mapping.
+I help busy teams deliver software faster, with higher quality and minimal time investment.
 
-Leveraging my diverse background in DevOps, Cloud Infrastructure, Data Engineering and Analytics, in large organizations, startups, and a nonprofit.
+In 2024, I helped 2 teams reduce deployment time by 60%+ at RELEX Solutions, with one team eliminating production incidents for 3+ months following the workshop. Across 10+ additional teams, the primary impact was improved alignment and clarity on delivery bottlenecks. In 2025, I launched my consulting practice, helping a client compress an 8-week project into 2 weeks by mapping their value stream first.
+
+I facilitate interactive workshops where teams visualize their delivery process, identify bottlenecks, and apply proven DevOps principles that most organizations underutilize. These sessions deliver measurable improvements with minimal time investment: 3-8 hours total.
 
 Common challenges addressed:
 
