@@ -38,9 +38,9 @@ _Feb 2025 - Present_
 
 - Launched independent consulting practice focused on helping technology teams deliver software faster with higher quality through Value Stream Mapping and DevOps principles.
 - Delivered measurable client impact: **Reduced project scope by 75%** while maintaining core value, completing delivery in **2 weeks instead of 8 weeks** by first mapping the value stream to identify highest-impact work.
-- Facilitated 12 expert-led workshops (and counting) across financial services, SaaS, manufacturing, telecommunications, and education sectors in Berlin, London, Lisbon and online.
+- Facilitated **12 expert-led workshops** (and counting) across financial services, SaaS, manufacturing, telecommunications, and education sectors in Berlin, London, Lisbon and online.
 - Built Berlin VSM Community: Founded and grew an online community to **280+ members** (4.7/5 satisfaction rating), running weekly hands-on workshops co-facilitated with international experts in DevOps and Lean.
-- Strategic partnerships: Collaborated with Thoughtworks (Berlin), Projective Group (London), Productized (Lisbon), The Flow Hive (Netherlands) and more to deliver training workshops.
+- **Strategic partnerships**: Collaborated with **Thoughtworks (Berlin), Projective Group (London), Productized (Lisbon), The Flow Hive (Netherlands)** and more to deliver training workshops.
 - Active contributor to The Flow Collective, collaborating weekly with international Lean/DevOps authors and practitioners in advancing the state of the art in software delivery.
 
 **Testimonial: Lígia Terra, Product Manager**
