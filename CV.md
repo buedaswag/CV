@@ -12,7 +12,7 @@ Berlin, Germany
 
 I help busy teams deliver software faster, with higher quality and minimal time investment.
 
-In 2024, I helped 5 teams to deliver software faster (60%+ lead time improvement, from monthly to weekly deployments) with higher quality (introduced canary deployments, eliminated major incidents, helped multiple teams see why 25-50% of daily time spent on customer problems)
+In 2024, I helped 5 teams at RELEX Solutions to deliver software faster (60%+ lead time improvement, from monthly to weekly deployments) with higher quality (introduced canary deployments, eliminated major incidents, helped multiple teams see why 25-50% of daily time spent on customer problems)
 
 In 2025, I launched my consulting practice, helping a client compress an 8-week project into 2 weeks by mapping their value stream first.
 
