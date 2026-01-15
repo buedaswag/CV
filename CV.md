@@ -1,6 +1,6 @@
 # Miguel Dias
 
-## DevOps Consultant
+## Technical Product Owner / DevOps Engineer
 
 Berlin, Germany
 
@@ -12,16 +12,19 @@ Berlin, Germany
 
 I help busy teams deliver software faster, with higher quality and minimal time investment.
 
-In 2024, I helped 2 teams reduce deployment time by 60%+ at RELEX Solutions, with one team eliminating production incidents for 3+ months following the workshop. Across 10+ additional teams, the primary impact was improved alignment and clarity on delivery bottlenecks. In 2025, I launched my consulting practice, helping a client compress an 8-week project into 2 weeks by mapping their value stream first.
+In 2024, I helped 5 teams to deliver software faster (60%+ lead time improvement, from monthly to weekly deployments) with higher quality (introduced canary deployments, eliminated major incidents, helped multiple teams see why 25-50% of daily time spent on customer problems)
 
-I facilitate interactive workshops where teams visualize their delivery process, identify bottlenecks, and apply proven DevOps principles that most organizations underutilize. These sessions deliver measurable improvements with minimal time investment: 3-8 hours total.
+In 2025, I launched my consulting practice, helping a client compress an 8-week project into 2 weeks by mapping their value stream first.
 
-Common challenges addressed:
+Built a community for engineerning leaders 280+ members strong, ran 12 expert-led workshops across Lisbon, London, Berlin, and online
+
+Common challenges I addressed:
 
 - Releases cause expensive disruptions, losing customers
-- Slow onboarding loses deals
+- Slow customer onboarding loses deals
 - Can’t deliver features fast enough to stay competitive, close deals
 - 25–50% of team time spent fixing customer problems
+- Teams have too much work and too little capacity
 
 ---
 
@@ -60,11 +63,13 @@ _Jun 2024 - Feb 2025_
 - End-to-end visualization and measurement of the software delivery process.
 - Alignment of teams towards the common goal of delivering increased customer value.
 
-**Testimonial: Jukka, Director of Engineering**
+**Testimonials:**
 
-* "**We just had to join the workshops and get immediate value from them.**"
-* "**We invested a bit, but the outcome is huge**. Even if no further actions are taken, **simply doing the workshops shows you what the bottlenecks are, what's slowing you down, and what is hurting the processes.**"
-* "It refocused our conversation on value exchange with the customer".
+* "I always found Miguel excellent to work with and he added value whenever he was involved." — **Mark Sadler**, Program Director, Relex Solutions
+
+* "Miguel organized everything for us, we just had to join the workshops and get immediate value from them. We invested a bit, but the outcome is huge." — **Jukka Palosaari**, Director of Engineering, Relex Solutions
+
+* "(...) a tremendous potential was unveiled how the process of deploying changes can be improved." — **Mika Schafroth**, Director of Engineering, Relex Solutions
 
 **RELEX Solutions, Lisbon**
 
