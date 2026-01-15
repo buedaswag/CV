@@ -12,11 +12,11 @@ Berlin, Germany
 
 I help busy teams deliver software faster, with higher quality and minimal time investment.
 
-In 2024, I helped 5 teams to deliver software faster (60%+ lead time improvement, from monthly to weekly deployments) with higher quality (introduced canary deployments, eliminated major incidents, helped multiple teams see why 25-50% of daily time spent on customer problems)
+In 2024, I helped 5 teams to deliver software faster (**60%+ lead time improvement**, from monthly to weekly deployments) with higher quality (introduced canary deployments, **eliminated major incidents**, helped multiple teams see why 25-50% of daily time spent on customer problems)
 
-In 2025, I launched my consulting practice, helping a client compress an 8-week project into 2 weeks by mapping their value stream first.
+In 2025, I launched my consulting practice, helping a client **compress an 8-week project into 2 weeks** by mapping their value stream first.
 
-Built a community for engineerning leaders 280+ members strong, ran 12 expert-led workshops across Lisbon, London, Berlin, and online
+Built a community for engineerning leaders **280+ members** strong, ran **12 expert-led workshops** across Lisbon, London, Berlin, and online
 
 Common challenges I addressed:
 
@@ -37,15 +37,15 @@ _DevOps and Value Stream Mapping Consultant_
 _Feb 2025 - Present_
 
 - Launched independent consulting practice focused on helping technology teams deliver software faster with higher quality through Value Stream Mapping and DevOps principles.
-- Delivered measurable client impact: Reduced project scope by 75% while maintaining core value, completing delivery in 2 weeks instead of 8 weeks by first mapping the value stream to identify highest-impact work.
+- Delivered measurable client impact: **Reduced project scope by 75%** while maintaining core value, completing delivery in **2 weeks instead of 8 weeks** by first mapping the value stream to identify highest-impact work.
 - Facilitated 12 expert-led workshops (and counting) across financial services, SaaS, manufacturing, telecommunications, and education sectors in Berlin, London, Lisbon and online.
-- Built Berlin VSM Community: Founded and grew an online community to 280+ members (4.7/5 satisfaction rating), running weekly hands-on workshops co-facilitated with international experts in DevOps and Lean.
+- Built Berlin VSM Community: Founded and grew an online community to **280+ members** (4.7/5 satisfaction rating), running weekly hands-on workshops co-facilitated with international experts in DevOps and Lean.
 - Strategic partnerships: Collaborated with Thoughtworks (Berlin), Projective Group (London), Productized (Lisbon), The Flow Hive (Netherlands) and more to deliver training workshops.
 - Active contributor to The Flow Collective, collaborating weekly with international Lean/DevOps authors and practitioners in advancing the state of the art in software delivery.
 
 **Testimonial: Lígia Terra, Product Manager**
 
-* "My first time exploring Value Stream Mapping - and it really opened my eyes! I loved how we could spot blockers so quickly and think of practical ways to improve flow. Thanks Miguel for such a clear and engaging session!"
+* "My first time exploring Value Stream Mapping - and it really opened my eyes! I loved how we could **spot blockers so quickly** and think of practical ways to improve flow. Thanks Miguel for such a clear and engaging session!"
 
 **RELEX Solutions, Berlin**
 
@@ -53,10 +53,10 @@ _DevOps and Value Stream Mapping Consultant_
 
 _Jun 2024 - Feb 2025_
 
-- Impacting over 15 teams
+- Impacting **over 15 teams**
   - **Reducing deployment time by 64%, from 28 days to 10 days**
   - **Quadrupled deployment frequency from monthly to weekly**
-  - Eliminated major incidents folloing my intervention for one team
+  - **Eliminated major incidents** following my intervention for one team
   - Conducted root cause analysis, improving incident impact/downtime.
   - Helping multiple teams to apply DevOps principles, removing bottlenecks and delivering more value to the customer.
   - End-to-end visualization and measurement of the software delivery process.
@@ -64,11 +64,11 @@ _Jun 2024 - Feb 2025_
 
 **Testimonials:**
 
-* "I always found Miguel excellent to work with and he added value whenever he was involved." — **Mark Sadler**, Program Director, Relex Solutions
+* "I always found Miguel **excellent to work with and he added value whenever he was involved**." — **Mark Sadler**, Program Director, Relex Solutions
 
-* "Miguel organized everything for us, we just had to join the workshops and get immediate value from them. We invested a bit, but the outcome is huge." — **Jukka Palosaari**, Director of Engineering, Relex Solutions
+* "Miguel organized everything for us, we just had to join the workshops and get **immediate value** from them. We invested a bit, but **the outcome is huge**." — **Jukka Palosaari**, Director of Engineering, Relex Solutions
 
-* "(...) a tremendous potential was unveiled how the process of deploying changes can be improved." — **Mika Schafroth**, Director of Engineering, Relex Solutions
+* "(...) **a tremendous potential was unveiled** how the process of deploying changes can be improved." — **Mika Schafroth**, Director of Engineering, Relex Solutions
 
 **RELEX Solutions, Lisbon**
 
@@ -78,7 +78,7 @@ _Oct 2022 - Jun 2024_
 
 - **Reduced deployment time by 68%, from 22 days to 7 days**, guided the team in an impact analysis of deployment problems and in developing a roadmap with countermeasures for happier customers.
 - **Automated Cloud Provisioning**: Developed a Django application allowing the team to automate cloud infrastructure in Azure, setup with Terraform and Python, **accelerating the provisioning process from days to minutes**.
-- **Cloud Monitoring Implementation**: Deployed an Azure-based, event-driven logging pipeline integrated with Datadog, with automated alerts, creating the essential capability to respond to incidents in real time.
+- **Cloud Monitoring Implementation**: Deployed an Azure-based, event-driven logging pipeline integrated with Datadog, with automated alerts, enabling **real-time incident response**.
 - **Cloud Data Transfer**: Designed and implemented a file pull/push solution using Azure Data Factory, enabling data transfer capabilities across multiple cloud platforms. Conducted comprehensive analysis and communicated it across the organization.
 - Collaborative Team Culture: Contributed to a team environment that values listening, collaboration and technical excellence.
 
@@ -101,7 +101,7 @@ _DevOps ENGINEER_
 _Mar 2020 - Mar 2022_
 
 - Authored a comprehensive guide on setting up a professional Python development environment, providing ongoing support to students.
-- Implemented CI/CD pipelines for testing, releasing, and automatic grading of learning materials.
+- Implemented **CI/CD pipelines** for testing, releasing, and automatic grading of learning materials.
 
 _DATA SCIENCE INSTRUCTOR_
 
@@ -136,10 +136,10 @@ _DATA SCIENTIST/ENGINEER_
 
 _Feb 2020 - July 2021_
 
-- **Mined data for insights to drive product decisions, managing a Data Warehouse with AWS EC2, Firehose, S3, Snowflake, and Terraform**.
+- Mined data for insights to **drive product decisions**, managing a Data Warehouse with AWS EC2, Firehose, S3, Snowflake, and Terraform.
 - Developed data collection on Android devices and cloud infrastructure for data reception.
 - Built Data Marts to serve specific business use cases, working closely with product and marketing teams for reports and dashboards.
-- Deployed a company-wide business intelligence solution (Chartio) and defined Key Performance Indicators with decision-makers.
+- Deployed a **company-wide business intelligence solution** (Chartio) and defined Key Performance Indicators with decision-makers.
 - Applied NLP to customer surveys and built an internal tool for Customer Support using Django, MongoDB, SQL, AWS ECS, Fargate, and Terraform.
 
 **Mobipium, Lisbon**
