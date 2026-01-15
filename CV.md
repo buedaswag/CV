@@ -12,7 +12,7 @@ Berlin, Germany
 
 I help busy teams deliver software faster, with higher quality and minimal time investment.
 
-In 2024, I helped 5 teams at RELEX Solutions to deliver software faster (60%+ lead time improvement, from monthly to weekly deployments) with higher quality (introduced canary deployments, eliminated major incidents, helped multiple teams see why 25-50% of daily time spent on customer problems)
+In 2024, I helped 5 teams to deliver software faster (60%+ lead time improvement, from monthly to weekly deployments) with higher quality (introduced canary deployments, eliminated major incidents, helped multiple teams see why 25-50% of daily time spent on customer problems)
 
 In 2025, I launched my consulting practice, helping a client compress an 8-week project into 2 weeks by mapping their value stream first.
 
@@ -32,7 +32,7 @@ Common challenges I addressed:
 
 **Miguel Dias Consulting, Berlin**
 
-_DEVOPS AND VSM CONSULTANT_
+_DevOps and Value Stream Mapping Consultant_
 
 _Feb 2025 - Present_
 
@@ -49,19 +49,18 @@ _Feb 2025 - Present_
 
 **RELEX Solutions, Berlin**
 
-_DEVOPS MANAGEMENT CONSULTANT_
+_DevOps and Value Stream Mapping Consultant_
 
 _Jun 2024 - Feb 2025_
 
-- Added significant value by running multiple Value Stream Mapping workshops impacting over 15 teams
-  - **Reducing deployment time in Project A by 64%, from 28 days to 10 days**
-  - **Doubled deployment frequency from monthly to weekly**
-  - Improving collaboration across different teams.
+- Impacting over 15 teams
+  - **Reducing deployment time by 64%, from 28 days to 10 days**
+  - **Quadrupled deployment frequency from monthly to weekly**
+  - Eliminated major incidents folloing my intervention for one team
   - Conducted root cause analysis, improving incident impact/downtime.
-  - **Addressing quality problems at the source** for permanent solutions instead of quick fixes that don't stick.
-- Helping multiple teams to apply DevOps principles, removing bottlenecks and delivering more value to the customer.
-- End-to-end visualization and measurement of the software delivery process.
-- Alignment of teams towards the common goal of delivering increased customer value.
+  - Helping multiple teams to apply DevOps principles, removing bottlenecks and delivering more value to the customer.
+  - End-to-end visualization and measurement of the software delivery process.
+  - Improving collaboration and alignment across different teams: shared goal of delivering more customer value.
 
 **Testimonials:**
 
@@ -97,7 +96,7 @@ _Mar 2022 - Jan 2023_
 - Built and deployed tools for students using Python, FastAPI, and Docker.
 - Developed a Django REST framework API to collect student submissions, presented in a Django-based dashboard, deployed to AWS Fargate.
 
-_DEVOPS ENGINEER_
+_DevOps ENGINEER_
 
 _Mar 2020 - Mar 2022_
 
