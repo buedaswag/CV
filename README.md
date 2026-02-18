@@ -1,6 +1,6 @@
 # CV
 
-```
+```bash
 # installation
 brew install pandoc
 brew install --cask basictex
@@ -9,8 +9,12 @@ sudo tlmgr install sectsty
 sudo tlmgr install hyphenat
 sudo tlmgr install titlesec
 
-# cv generation
-pandoc CV.md -H header.tex -V geometry:margin=1in -V setspace:singlespacing --pdf-engine=xelatex -o CV.pdf
+# build all CVs
+make
 
-pandoc CV_deutche.md -H header.tex -V geometry:margin=1in -V setspace:singlespacing --pdf-engine=xelatex -o CV_deutche.pdf
+# build a single CV
+make CV.pdf
+
+# clean all generated PDFs
+make clean
 ```
