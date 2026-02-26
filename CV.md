@@ -1,6 +1,6 @@
 # Miguel Dias
 
-## DevOps Engineer
+## Senior DevOps Engineer
 
 Berlin, Germany
 
