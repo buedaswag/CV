@@ -78,9 +78,11 @@ _Oct 2022 - Jun 2024_
 
 - **Reduced deployment time by 68%, from 22 days to 7 days**, guided the team in an impact analysis of deployment problems and in developing a roadmap with countermeasures for happier customers.
 - **Automated Cloud Provisioning**: Developed a Django application allowing the team to automate cloud infrastructure in Azure, setup with Terraform and Python, **accelerating the provisioning process from days to minutes**.
-- **Cloud Monitoring Implementation**: Deployed an Azure-based, event-driven logging pipeline integrated with Datadog, with automated alerts, enabling **real-time incident response**.
-- **Cloud Data Transfer**: Designed and implemented a file pull/push solution using Azure Data Factory, enabling data transfer capabilities across multiple cloud platforms. Conducted comprehensive analysis and communicated it across the organization.
-- Collaborative Team Culture: Contributed to a team environment that values listening, collaboration and technical excellence.
+- **Cloud Monitoring Implementation**: Deployed an Azure Event Hub, event-driven logging pipeline integrated with Datadog, with automated alerts, enabling **real-time incident response**.
+- **Cloud Data Transfer**: Architecture design and deployment of a file pull/push solution using Azure Data Factory, enabling data transfer capabilities across multiple cloud platforms.
+- **Collaborative Team Culture**: Contributed to a team environment that values listening, collaboration and technical excellence.
+- **Integrated cloud resources with Kafka**: Designed and implemented event-driven integration between Azure resources and Kafka, enabling tracking of cloud provisioning initiatives across dozens of teams.
+
 
 **Lisbon Data Science Academy, Lisbon**
 
