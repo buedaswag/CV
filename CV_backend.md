@@ -4,7 +4,7 @@
 
 Berlin, Germany
 
-(+351) 910873042 | miguel@migueldias.eu | [linkedin.com/in/migueldiaseu](www.linkedin.com/in/migueldiaseu) | [migueldias.eu](www.migueldias.eu)
++49 1511 1621319 | miguel@migueldias.eu | [linkedin.com/in/migueldiaseu](www.linkedin.com/in/migueldiaseu) | [migueldias.eu](www.migueldias.eu)
 
 ---
 
