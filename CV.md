@@ -16,7 +16,7 @@ In 2024, I helped 5 teams to deliver software faster (from monthly to weekly dep
 
 In 2025, I launched my consulting practice, helping a client **compress an 8-week project into 2 weeks** by mapping their value stream first.
 
-Built a community for engineerning leaders **280+ members** strong, ran **12 expert-led workshops** across Lisbon, London, Berlin, and online
+Built a community for engineerning leaders **280+ members** strong, ran **13 expert-led workshops** across Helsinki, Berlin, London, Lisbon and online
 
 Common challenges I addressed:
 
