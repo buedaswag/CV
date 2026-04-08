@@ -196,4 +196,4 @@ _Jul 2019 - Mar 2020_
 - Portuguese (Native)
 - English (Fluent)
 - German (A2)
-- French (A1)
+- Spanish (B1)
