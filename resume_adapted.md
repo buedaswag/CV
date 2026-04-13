@@ -1,6 +1,6 @@
 # Miguel Dias
 
-## Senior Storage & Platform Operations Engineer
+## Senior Data Site Reliability Engineer
 
 Berlin, Germany
 
@@ -10,7 +10,7 @@ Berlin, Germany
 
 ### Profile
 
-Storage and platform operations engineer with 6+ years designing, automating, and operating mission-critical production systems across Azure, GCP, and AWS. Deep hands-on experience operating file storage services at enterprise scale (terabytes/day), with proven expertise in incident, problem, and change management, infrastructure automation (Terraform, Python), and observability (Datadog, Grafana). Track record of reducing deployment lead times by 60%+, eliminating major incidents through root cause analysis and preventive measures, and automating operational procedures from days to minutes. Strong Kubernetes and IaC background with a focus on operational readiness, runbook quality, and SRE practices.
+Data-focused site reliability engineer with 6+ years designing, automating, and operating mission-critical data services and platform infrastructure across Azure, GCP, and AWS. Deep hands-on experience with relational and non-relational data technologies (PostgreSQL, Kafka, MongoDB, Elasticsearch) and operating data-intensive storage services at enterprise scale (terabytes/day). Proven expertise in incident, problem, and change management, CI/CD pipelines, Infrastructure as Code (Terraform, GitOps), and observability (Datadog, Grafana, Prometheus). Track record of reducing deployment lead times by 60%+, eliminating major incidents through root cause analysis and preventive measures, and automating operational procedures from days to minutes. Strong Kubernetes and container orchestration background with a focus on reliability, scalability, and continuous improvement of data services.
 
 ---
 
@@ -21,27 +21,27 @@ Storage and platform operations engineer with 6+ years designing, automating, an
 - Led operational improvements across **15+ teams**: **reduced deployment lead time by 64%** (28 to 10 days), **quadrupled deployment frequency**.
 - **Eliminated major incidents** by introducing canary deployments, rollback strategies, and improved release governance.
 - Drove root cause analysis practices and implementation of corrective and preventive actions across production services.
-- Implemented end-to-end delivery measurement and observability, defining SLIs and tracking service reliability across teams.
+- Implemented end-to-end delivery measurement and observability, defining SLIs/SLOs and tracking service reliability across teams.
 
-**RELEX Solutions, Lisbon** | _Cloud Infrastructure & Storage Operations Engineer_ | Oct 2022 -- Jun 2024
+**RELEX Solutions, Lisbon** | _Cloud Infrastructure & Data Operations Engineer_ | Oct 2022 -- Jun 2024
 
-- Operated and maintained **file storage services** for multiple large enterprise clients, handling **terabytes of data per day** with high-availability requirements.
+- Operated and maintained **data and storage services** for multiple large enterprise clients, handling **terabytes of data per day** with high-availability requirements across hybrid cloud environments.
 - **Reduced deployment time by 68%** (22 to 7 days) through structured impact analysis and a countermeasures roadmap for operational readiness.
 - Automated cloud provisioning on Azure with Terraform and Python, **cutting infrastructure setup from days to minutes** -- reducing operational toil and improving MTTR.
 - Deployed an event-driven monitoring pipeline (Azure Event Hub + Datadog) with automated alerting for **real-time incident detection and response**.
-- Designed and deployed cloud data transfer solutions using Azure Data Factory, enabling storage connectivity across multiple cloud platforms.
-- Integrated Azure resources with Kafka for event-driven tracking of provisioning workflows across dozens of teams.
-- Documented operational procedures and enforced runbook standards for storage and infrastructure operations.
+- Designed and deployed cloud data transfer solutions using Azure Data Factory, enabling data connectivity across multiple cloud platforms.
+- Integrated Azure resources with **Kafka** for event-driven tracking of provisioning workflows across dozens of teams.
+- Documented operational procedures and enforced runbook standards for data services and infrastructure operations.
 
 **Lisbon Data Science Academy** | _Head of Engineering / DevOps Engineer_ | Mar 2020 -- Jan 2023
 
-- Led engineering for a platform serving **900+ students** (Django, Kubernetes, AWS); managed the full application lifecycle including deployments, monitoring, and incident response.
+- Led engineering for a platform serving **900+ students** (Django/PostgreSQL, Kubernetes, AWS); managed the full application lifecycle including deployments, monitoring, and incident response.
 - Built CI/CD pipelines for automated testing and releasing; deployed containerized services with Docker and Kubernetes.
 - Operated Kubernetes clusters and managed persistent storage for stateful workloads.
 
 **DareData, Lisbon** | _Data Engineer_ | Nov 2021 -- Jun 2022
 
-- Deployed Elasticsearch and neo4j storage services to GCP, **increasing search availability by 75%**.
+- Deployed Elasticsearch and neo4j data services to GCP, **increasing search availability by 75%**.
 - Built ETL pipelines with Airflow on Google Cloud Composer; managed data ingestion at scale with Oracle SQL, Hive, and bash.
 
 **Miguel Dias Consulting, Berlin** | _DevOps & Operational Excellence Consultant_ | Feb 2025 -- Present
@@ -63,14 +63,13 @@ Storage and platform operations engineer with 6+ years designing, automating, an
 
 ### Technical Skills
 
-- **Storage & Data Services**: File Storage (NFS), Object Storage (S3-compatible), Block Storage, Azure Data Factory, Elasticsearch, Kafka
-- **Platform & Containers**: Kubernetes, Docker, Helm, CSI driver concepts (PV/PVC lifecycle)
-- **Infrastructure as Code**: Terraform (Providers & Modules), GitOps, ArgoCD awareness
-- **Observability & Monitoring**: Datadog, Grafana, Prometheus, automated alerting pipelines
-- **Cloud Platforms**: Azure, GCP, AWS, VPC/VNET, DNS, Load Balancing, hybrid cloud
-- **ITSM & Practices**: Incident/Problem/Change Management, SRE (SLIs/SLOs), runbook development, Value Stream Mapping
-- **Programming & Automation**: Python, Bash, SQL (PostgreSQL, MySQL), Java
-- **Collaboration Tools**: Jira, Confluence, GitHub Actions, GitLab
+- **Data Services**: PostgreSQL, Kafka, MongoDB, Elasticsearch, Azure Data Factory, File/Object/Block Storage
+- **Platform & Containers**: Kubernetes, Docker, Helm, container orchestration, CSI driver concepts
+- **CI/CD & GitOps**: GitHub Actions, GitLab CI, Infrastructure as Code (Terraform), ArgoCD, GitOps practices
+- **Observability & Monitoring**: Datadog, Grafana, Prometheus, automated alerting pipelines, log aggregation
+- **Cloud Platforms**: Azure, GCP, AWS, hybrid cloud, VPC/VNET, DNS, Load Balancing
+- **ITSM & SRE Practices**: Incident/Problem/Change/Release Management, SLIs/SLOs, runbook development, Value Stream Mapping
+- **Programming & Automation**: Python, Bash, SQL, Java
 
 ---
 
