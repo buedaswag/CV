@@ -10,7 +10,7 @@ Berlin, Germany (CET)
 
 ### Profile
 
-Senior DevOps Engineer with 6+ years building and operating cloud-native platforms used by software teams to deliver applications efficiently. Hands-on with **Kubernetes**, **Terraform**, **Helm**, **GitOps**, and **CI/CD** tooling. Full-stack background spanning **TypeScript/Node.js, React, Python**, and **Django**, with proven experience building **internal developer platforms and portals** that reduced deployment lead times by 60%+ and eliminated major incidents. Strong focus on Infrastructure-as-Code, automated testing, and technical documentation.
+Senior DevOps Engineer with 6+ years building and operating cloud-native platforms with **Terraform**, **Ansible**, **Kubernetes**, and **GitOps** workflows. Proven experience designing modular, end-to-end provisioning systems that integrate multiple end systems via **REST APIs** and SSH, with strong focus on automated testing (**pytest**), error handling, and graceful failure recovery. Built **internal developer platforms** that reduced deployment lead times by 60%+ and eliminated production incidents. Deep Linux background with Python tooling experience across PostgreSQL, Redis, and MongoDB.
 
 ---
 
@@ -30,16 +30,16 @@ Senior DevOps Engineer with 6+ years building and operating cloud-native platfor
 
 **RELEX Solutions, Lisbon** | _Cloud Infrastructure Engineer_ | Oct 2022 -- Jun 2024
 
-- Built an **internal self-service portal** (Django, Python, Terraform) that automated cloud provisioning across dozens of teams, **cutting infrastructure setup from days to minutes**.
+- Built an **internal self-service provisioning portal** (Django, Python, **Terraform**) that automated end-to-end cloud infrastructure across dozens of teams via **REST API integrations**, **cutting setup from days to minutes** with hardened error handling and graceful failure recovery.
 - **Reduced deployment time by 68%** (22 to 7 days) through impact analysis and a structured countermeasures roadmap.
-- Maintained **Infrastructure-as-Code** with **Terraform** for multi-team cloud environments; integrated provisioning with **Kafka** for event-driven tracking across the org.
+- Designed **modular Infrastructure-as-Code** with **Terraform** for multi-team cloud environments, emphasizing separation of concerns and maintainable codebases; integrated provisioning with **Kafka** for event-driven tracking.
 - Deployed an event-driven monitoring pipeline (Event Hub + Datadog) with automated alerting for **real-time incident response**.
 
 **Lisbon Data Science Academy** | _Head of Engineering / DevOps Engineer_ | Mar 2020 -- Jan 2023
 
-- Led engineering for a developer-facing platform serving **900+ users** on **Kubernetes and AWS**; managed full application lifecycle including deployments, monitoring, and incident response.
-- Built **full-stack features** with **Python, Django, Django REST framework, FastAPI**, and **JavaScript** front-ends; deployed containerized services with **Docker and Kubernetes**.
-- Implemented **CI/CD pipelines** with **automated testing**, releasing, and grading workflows.
+- Led engineering for a developer-facing platform serving **900+ users** on **Kubernetes and AWS**; managed full **K8s cluster lifecycle** including deployments, monitoring, and incident response.
+- Built **REST APIs** and full-stack features with **Python, Django, Django REST framework, FastAPI**; deployed containerized services with **Docker and Kubernetes**.
+- Implemented **CI/CD pipelines** with **automated testing (pytest)**, releasing, and grading workflows.
 - Authored a comprehensive setup guide and ongoing **technical documentation** for platform users.
 
 **DareData, Lisbon** | _Cloud / Data Engineer_ | Nov 2021 -- Jun 2022
@@ -61,15 +61,18 @@ Senior DevOps Engineer with 6+ years building and operating cloud-native platfor
 
 ### Technical Skills
 
-- **Languages**: **TypeScript, JavaScript, Node.js**, Python, Bash, SQL, Java
-- **Frontend**: **React**, HTML/CSS, Django templates
-- **Containers & Orchestration**: **Kubernetes**, Docker, **Helm**
-- **Infrastructure as Code**: **Terraform**, **GitOps (Flux/ArgoCD)**
-- **Developer Platforms**: internal portals, self-service tooling, **Backstage.io** (familiar)
-- **CI/CD & Testing**: GitHub Actions, GitLab CI, Jenkins, automated test pipelines
+- **Infrastructure as Code**: **Terraform**, **Ansible**, **GitOps (ArgoCD/FluxCD)**
+- **Containers & Orchestration**: **Kubernetes** (cluster lifecycle), Docker, **Helm**, Rancher (familiar)
+- **Languages**: Python, Bash, SQL, TypeScript/Node.js, Java
+- **Testing**: **pytest**, unittest, automated test pipelines
+- **APIs & Integration**: **REST APIs**, SSH, end-to-end provisioning workflows, error handling
+- **Databases**: **PostgreSQL**, **Redis**, **MongoDB**, Elasticsearch
+- **Linux & Networking**: Linux administration, networking, firewalls
+- **CI/CD**: GitHub Actions, GitLab CI, Jenkins
 - **Cloud**: Azure, AWS, GCP, hybrid cloud
-- **Observability**: Datadog, Grafana, Prometheus, automated alerting
-- **Messaging & Data**: Kafka, Event Hub, PostgreSQL, Elasticsearch
+- **Observability**: Datadog, Grafana, Prometheus, OpenTelemetry, automated alerting
+- **Secrets & Artifacts**: Hashicorp Vault, JFrog Artifactory (familiar)
+- **Messaging**: Kafka, Event Hub
 
 ---
 
