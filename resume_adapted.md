@@ -1,6 +1,6 @@
 # Miguel Dias
 
-## Senior Cloud Engineer
+## Senior DevOps Engineer
 
 Berlin, Germany (CET)
 
@@ -10,47 +10,42 @@ Berlin, Germany (CET)
 
 ### Profile
 
-Senior Cloud Engineer with 6+ years building and optimizing cloud-native platforms across **Google Cloud**, Azure, and AWS for global, distributed product teams. Hands-on with **GCP services (BigQuery, Cloud Run, Cloud Composer, GKE)**, **Terraform**, **Kubernetes**, and **CI/CD tooling (Jenkins, GitHub Actions, GitLab CI)**. Proven track record delivering cloud platform improvements at enterprise scale: reduced deployment lead times by 60%+, eliminated major incidents, and automated cloud provisioning from days to minutes. Strong focus on cloud optimization, DevOps practices, and autonomous delivery in globally distributed product teams.
+Senior DevOps Engineer with 6+ years building and operating cloud-native platforms used by software teams to deliver applications efficiently. Hands-on with **Kubernetes**, **Terraform**, **Helm**, **GitOps**, and **CI/CD** tooling. Full-stack background spanning **TypeScript/Node.js, React, Python**, and **Django**, with proven experience building **internal developer platforms and portals** that reduced deployment lead times by 60%+ and eliminated major incidents. Strong focus on Infrastructure-as-Code, automated testing, and technical documentation.
 
 ---
 
 ### Experience
 
-**Miguel Dias Consulting, Berlin** | _Cloud & DevOps Consultant_ | Feb 2025 -- Present
+**Miguel Dias Consulting, Berlin** | _DevOps & Platform Consultant_ | Feb 2025 -- Present
 
-- Advise enterprise product teams on **cloud platform optimization**, CI/CD, and delivery practices across financial services, SaaS, manufacturing, and telecom.
+- Advise enterprise product teams on **internal developer platforms**, CI/CD, and delivery practices across financial services, SaaS, manufacturing, and telecom.
 - **Compressed an 8-week project into 2 weeks** by mapping the client's value stream, reducing scope by 75% while preserving core value.
 - Facilitated **12 workshops** across Berlin, London, Lisbon, and online, partnering with Thoughtworks, Projective Group, and Productized.
 
-**RELEX Solutions, Berlin** | _DevOps & Cloud Optimization Consultant_ | Jun 2024 -- Feb 2025
+**RELEX Solutions, Berlin** | _DevOps Consultant_ | Jun 2024 -- Feb 2025
 
-- Drove cloud delivery improvements across **15+ globally distributed product teams**: **reduced deployment lead time by 64%** (28 to 10 days), **quadrupled deployment frequency**.
-- **Eliminated major incidents** by introducing canary deployments, rollback strategies, and improved release governance on Kubernetes workloads.
-- Implemented end-to-end delivery measurement and observability, defining SLIs/SLOs and aligning teams on cloud reliability outcomes.
+- Drove platform delivery improvements across **15+ product teams**: **reduced deployment lead time by 64%** (28 to 10 days), **quadrupled deployment frequency** from monthly to weekly.
+- **Eliminated major incidents** by introducing canary deployments, rollback strategies, and improved release governance on **Kubernetes** workloads.
+- Authored **technical documentation and runbooks** for delivery practices; defined SLIs/SLOs and aligned teams on reliability outcomes.
 
 **RELEX Solutions, Lisbon** | _Cloud Infrastructure Engineer_ | Oct 2022 -- Jun 2024
 
-- Operated and maintained **highly available cloud infrastructure** for large enterprise clients, processing **terabytes of data per day** across hybrid cloud environments.
-- **Reduced deployment time by 68%** (22 to 7 days) through structured impact analysis and a cloud platform countermeasures roadmap.
-- Automated cloud provisioning with **Terraform** and Python, **cutting infrastructure setup from days to minutes**.
-- Deployed an event-driven monitoring pipeline (**Event Hub + Datadog**) with automated alerting for **real-time incident detection and response**.
-- Integrated cloud resources with **Kafka** for event-driven tracking of provisioning workflows across dozens of teams.
+- Built an **internal self-service portal** (Django, Python, Terraform) that automated cloud provisioning across dozens of teams, **cutting infrastructure setup from days to minutes**.
+- **Reduced deployment time by 68%** (22 to 7 days) through impact analysis and a structured countermeasures roadmap.
+- Maintained **Infrastructure-as-Code** with **Terraform** for multi-team cloud environments; integrated provisioning with **Kafka** for event-driven tracking across the org.
+- Deployed an event-driven monitoring pipeline (Event Hub + Datadog) with automated alerting for **real-time incident response**.
 
 **Lisbon Data Science Academy** | _Head of Engineering / DevOps Engineer_ | Mar 2020 -- Jan 2023
 
-- Led engineering for a platform serving **900+ students** on **Kubernetes and AWS**; managed the full application lifecycle including deployments, monitoring, and incident response.
-- Built **CI/CD pipelines** for automated testing, releasing, and grading; deployed containerized services with **Docker and Kubernetes**.
-- Operated **Kubernetes clusters** and managed persistent storage for stateful workloads.
+- Led engineering for a developer-facing platform serving **900+ users** on **Kubernetes and AWS**; managed full application lifecycle including deployments, monitoring, and incident response.
+- Built **full-stack features** with **Python, Django, Django REST framework, FastAPI**, and **JavaScript** front-ends; deployed containerized services with **Docker and Kubernetes**.
+- Implemented **CI/CD pipelines** with **automated testing**, releasing, and grading workflows.
+- Authored a comprehensive setup guide and ongoing **technical documentation** for platform users.
 
 **DareData, Lisbon** | _Cloud / Data Engineer_ | Nov 2021 -- Jun 2022
 
-- Built an NLP/CV document processing application on **Google Cloud Platform**, **increasing search availability by 75%** with Elasticsearch and neo4j deployed to GCP.
-- Developed ETL pipelines with **Airflow on Google Cloud Composer**, ingesting and transforming data at scale.
-- Performed cost and feature analysis to inform cloud tooling decisions.
-
-**Bond Touch, Lisbon** | _Data & Infrastructure Engineer_ | Feb 2020 -- Jul 2021
-
-- Managed cloud infrastructure with **AWS** (EC2, S3, ECS, Fargate) and **Terraform**, operating a production data warehouse (**Snowflake**) serving the entire company.
+- Built a full-stack web application (NLP/CV document processing) on GCP, **increasing search availability by 75%** with Elasticsearch and neo4j.
+- Developed ETL pipelines with Airflow on Google Cloud Composer.
 
 ---
 
@@ -58,7 +53,7 @@ Senior Cloud Engineer with 6+ years building and optimizing cloud-native platfor
 
 **University of Lisbon** | Graduate work towards MSc in Data Science (cloud computing, ML) | 2018 -- 2019
 
-- Built a **Kubernetes cluster on Google Cloud Platform** to accelerate distributed reinforcement learning workloads.
+- Built a **Kubernetes cluster on GCP** to accelerate distributed reinforcement learning workloads.
 
 **University of Lisbon** | BSc in Software Engineering | 2014 -- 2019
 
@@ -66,15 +61,15 @@ Senior Cloud Engineer with 6+ years building and optimizing cloud-native platfor
 
 ### Technical Skills
 
-- **Google Cloud**: BigQuery, Cloud Run, Cloud Composer (Airflow), GKE, GCP networking
-- **Other Cloud Platforms**: Azure, AWS, hybrid cloud
-- **Infrastructure as Code**: Terraform, GitOps, ArgoCD
-- **Containers & Orchestration**: Kubernetes, Docker, Helm
-- **CI/CD**: Jenkins, GitHub Actions, GitLab CI, automated deployment pipelines
-- **Cloud Optimization**: cost analysis, performance tuning, deployment lead-time reduction
+- **Languages**: **TypeScript, JavaScript, Node.js**, Python, Bash, SQL, Java
+- **Frontend**: **React**, HTML/CSS, Django templates
+- **Containers & Orchestration**: **Kubernetes**, Docker, **Helm**
+- **Infrastructure as Code**: **Terraform**, **GitOps (Flux/ArgoCD)**
+- **Developer Platforms**: internal portals, self-service tooling, **Backstage.io** (familiar)
+- **CI/CD & Testing**: GitHub Actions, GitLab CI, Jenkins, automated test pipelines
+- **Cloud**: Azure, AWS, GCP, hybrid cloud
 - **Observability**: Datadog, Grafana, Prometheus, automated alerting
-- **Messaging & Data**: Kafka, Event Hub, PostgreSQL, Elasticsearch, Snowflake
-- **Programming**: Python, Bash, SQL, Java
+- **Messaging & Data**: Kafka, Event Hub, PostgreSQL, Elasticsearch
 
 ---
 

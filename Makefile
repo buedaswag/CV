@@ -6,7 +6,7 @@ PANDOC_FLAGS := -H header.tex \
 	-V setspace:singlespacing \
 	--pdf-engine=xelatex
 
-all: $(PDFS)
+all: clean $(PDFS)
 
 %.pdf: %.md header.tex
 	pandoc $< $(PANDOC_FLAGS) -o $@
