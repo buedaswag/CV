@@ -18,8 +18,10 @@ At RELEX, I managed Terraform infrastructure for large enterprise clients and he
 
 Worth a quick 15min chat?
 https://calendly.com/migueldiaseu/
-```
 
+Best,
+Miguel
+```
 
 
 ## Setup
