@@ -9,6 +9,16 @@ Can you do the minimal changes to my resume.md to adapt it to the job listing?
 Take inspiration from my cv.md which is more complete
 Produce a new version of the resume.md file, call it resume_adapted.md
 
+Also adapt this message template to suit the job:
+
+```
+Hi ___________,
+
+At RELEX, I managed Terraform infrastructure for large enterprise clients and helped multiple teams cut deployment time by 64% (monthly → weekly) and eliminate production incidents.
+
+Worth a quick 15min chat?
+https://calendly.com/migueldiaseu/
+```
 
 
 
