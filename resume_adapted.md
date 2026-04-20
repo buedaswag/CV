@@ -20,7 +20,7 @@ Hands-on Cloud / DevOps engineer with 6+ years operating **production platforms*
 
 - Advise enterprise teams on **Kubernetes**, **Terraform**, CI/CD and operational excellence across financial services, SaaS, manufacturing and telecom.
 - **Compressed an 8-week project into 2 weeks** by mapping the client's delivery process and driving automation with engineering leaders.
-- Facilitated **12 workshops** across Berlin, London, Lisbon and online, partnering with Thoughtworks, Projective Group and Productized — **coaching engineers and leads** on DevOps and reliability practices.
+- Facilitated **13 Workshops** across Helsinki, Berlin, London, Lisbon and online, partnering with Thoughtworks, Projective Group and Productized — **coaching engineers and leads** on DevOps and reliability practices.
 
 **RELEX Solutions, Berlin** | _DevOps Consultant (Platform & Delivery)_ | Jun 2024 -- Feb 2025
 

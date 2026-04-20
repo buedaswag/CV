@@ -19,7 +19,7 @@ Cloud and DevOps leader with 6+ years building and optimizing production infrast
 **Miguel Dias Consulting, Berlin** | _DevOps & Value Stream Mapping Consultant_ | Feb 2025 -- Present
 
 - **Compressed an 8-week project into 2 weeks** by mapping the client's value stream, reducing scope by 75% while preserving core value.
-- Facilitated **12 workshops** across financial services, SaaS, manufacturing, and telecom in Berlin, London, Lisbon, and online.
+- Facilitated **13 Workshops** across financial services, SaaS, manufacturing, and telecom in Helsinki, Berlin, London, Lisbon, and online.
 - Founded the Berlin VSM Community (**280+ members**, 4.7/5 rating), partnering with Thoughtworks, Projective Group (London), Productized (Lisbon) and others.
 
 **RELEX Solutions, Berlin** | _DevOps & Value Stream Mapping Consultant_ | Jun 2024 -- Feb 2025

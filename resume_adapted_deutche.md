@@ -19,7 +19,7 @@ Cloud-Infrastruktur- und DevOps-Ingenieur mit über 6 Jahren Erfahrung in Konzep
 **Miguel Dias Consulting, Berlin** | _Berater DevOps & Value Stream Mapping_ | Feb 2025 – heute
 
 - **8-wöchiges Projekt auf 2 Wochen komprimiert**, indem der Wertstrom des Kunden kartiert wurde; Umfang um 75 % reduziert bei Erhalt des Kernnutzens.
-- **12 Workshops** in Finanzdienstleistungen, SaaS, Fertigung und Telekom in Helsinki, Berlin, London, Lissabon und online moderiert.
+- **13 Workshops** in Finanzdienstleistungen, SaaS, Fertigung und Telekom in Helsinki, Berlin, London, Lissabon und online moderiert.
 - Berlin VSM Community gegründet (**über 280 Mitglieder**, Bewertung 4,7/5); Partnerschaften u. a. mit Thoughtworks, Projective Group (London), Productized (Lissabon).
 
 **RELEX Solutions, Berlin** | _Berater DevOps & Value Stream Mapping_ | Jun 2024 – Feb 2025
