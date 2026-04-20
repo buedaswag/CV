@@ -14,7 +14,7 @@ Also adapt this message template to suit the job. Keep it the same length (one a
 ```
 Hi ___________,
 
-At RELEX, I managed Terraform infrastructure for large enterprise clients and helped multiple teams cut deployment time by 64% (monthly → weekly) and eliminate production incidents.
+At RELEX, I managed Terraform infrastructure for large enterprise clients and helped multiple teams cut deployment time by 64% (going from monthly to weekly) and eliminate production incidents.
 
 Worth a quick 15min chat?
 https://calendly.com/migueldiaseu/
