@@ -1,6 +1,6 @@
 # Miguel Dias
 
-## Senior DevOps Engineer
+## Senior Azure DevOps Engineer
 
 Berlin, Germany (CET)
 
@@ -10,7 +10,7 @@ Berlin, Germany (CET)
 
 ### Profile
 
-Senior DevOps / Automation Engineer with 6+ years designing and operating **CI/CD pipelines**, **Infrastructure-as-Code** (**Terraform**, **Ansible**) and **Kubernetes/Docker** workloads on **Azure**, AWS and GCP. Hands-on with monitoring and troubleshooting using **Prometheus**, **Grafana** and Datadog, and a strong focus on automation, system reliability and DevOps principles. Cut deployment lead times by **60%+**, **eliminated major production incidents**, and authored the technical documentation and runbooks that spread those improvements across enterprise teams.
+Senior DevOps Engineer with 6+ years on the **Azure** platform, designing and operating **AKS / multi-cluster Kubernetes** workloads, **Terraform**-based Infrastructure-as-Code, and **GitHub / GitHub Actions** CI/CD pipelines. Hands-on across Azure Event Hub, Azure Data Factory, and Datadog/Grafana monitoring, with a strong focus on automation, system reliability, and developer experience. Cut deployment lead times by **60%+**, **eliminated major production incidents**, and authored the runbooks and technical documentation that scaled those improvements across enterprise teams.
 
 ---
 
@@ -18,13 +18,13 @@ Senior DevOps / Automation Engineer with 6+ years designing and operating **CI/C
 
 **Miguel Dias Consulting, Berlin** | _DevOps & Automation Consultant_ | Feb 2025 -- Present
 
-- Consult enterprise teams on **CI/CD**, **Infrastructure-as-Code**, and operational excellence across financial services, SaaS, manufacturing, and telecom.
-- **Compressed an 8-week project into 2 weeks** by mapping the client's delivery process and driving automation and change management with engineering leaders.
+- Consult enterprise teams on **Azure**, **Terraform**, **Kubernetes**, and CI/CD across financial services, SaaS, manufacturing, and telecom.
+- **Compressed an 8-week project into 2 weeks** by mapping the client's delivery process and driving automation with engineering leaders.
 - Facilitated **12 workshops** across Berlin, London, Lisbon, and online, partnering with Thoughtworks, Projective Group, and Productized.
 
 **RELEX Solutions, Berlin** | _DevOps Consultant (CI/CD & Delivery)_ | Jun 2024 -- Feb 2025
 
-- Optimized **CI/CD pipelines** and release processes across **15+ teams** running enterprise **multi-cluster Kubernetes** workloads on Azure: **reduced deployment lead time by 64%** (28 to 10 days) and **quadrupled deployment frequency** from monthly to weekly.
+- Optimized **CI/CD pipelines** and release processes across **15+ teams** running enterprise **multi-cluster AKS / Kubernetes** workloads on **Azure**: **reduced deployment lead time by 64%** (28 to 10 days) and **quadrupled deployment frequency** from monthly to weekly.
 - **Eliminated major production incidents** by introducing canary deployments, rollback strategies, and improved release governance; led **root cause analysis** sessions and reduced incident impact/downtime.
 - Authored **runbooks and technical documentation** in Confluence, defined SLIs/SLOs, and aligned stakeholders on reliability outcomes.
 
@@ -38,7 +38,7 @@ Senior DevOps / Automation Engineer with 6+ years designing and operating **CI/C
 **Lisbon Data Science Academy** | _Head of Engineering / DevOps Engineer_ | Mar 2020 -- Jan 2023
 
 - Operated a developer-facing platform serving **900+ users** on **Kubernetes and AWS**; managed full cluster lifecycle, deployments, monitoring, and on-call **incident response**.
-- Built **CI/CD pipelines** for automated testing, releases, and grading; deployed containerized services with **Docker** and Kubernetes.
+- Built **CI/CD pipelines** on **GitHub** for automated testing, releases, and grading; deployed containerized services with **Docker** and Kubernetes.
 - Authored comprehensive **technical documentation** and guides for platform users; provided ongoing operational support.
 
 **DareData, Lisbon** | _Cloud / Data Engineer_ | Nov 2021 -- Jun 2022
@@ -60,10 +60,11 @@ Senior DevOps / Automation Engineer with 6+ years designing and operating **CI/C
 
 ### Technical Skills
 
-- **CI/CD**: **Azure DevOps**, GitLab CI, GitHub Actions, Jenkins, automated release pipelines
-- **Infrastructure-as-Code**: **Terraform / OpenTofu**, **Ansible**, GitOps workflows
-- **Cloud**: **Azure**, AWS, GCP
+- **Azure**: **AKS**, Azure Event Hub, Azure Data Factory, Azure DevOps, multi-cluster Kubernetes on Azure
+- **Infrastructure-as-Code**: **Terraform / OpenTofu**, Ansible, GitOps workflows
+- **CI/CD**: **GitHub Actions**, GitHub-based release pipelines, GitLab CI, Azure DevOps, Jenkins
 - **Containers & Orchestration**: **Kubernetes** (multi-cluster, cluster lifecycle), **Docker**, Helm
+- **Cloud (additional)**: AWS, GCP
 - **Monitoring & Troubleshooting**: **Prometheus**, **Grafana**, Datadog, OpenTelemetry, automated alerting, SLIs/SLOs
 - **Scripting & Languages**: **Bash**, **Python**, **Go** (familiar), SQL
 - **Linux & Operations**: Linux administration, networking, systemd, SSH, backup/restore
