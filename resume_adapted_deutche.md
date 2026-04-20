@@ -1,8 +1,8 @@
 # Miguel Dias
 
-## Senior DevOps Engineer
+## Data Engineer / DevOps Engineer
 
-Berlin, Deutschland
+Berlin, Deutschland (CET)
 
 +49 1511 1621319 | miguel@migueldias.eu | [linkedin.com/in/migueldiaseu](www.linkedin.com/in/migueldiaseu) | [migueldias.eu](www.migueldias.eu)
 
@@ -10,42 +10,48 @@ Berlin, Deutschland
 
 ### Profil
 
-Cloud-Infrastruktur- und DevOps-Ingenieur mit über 6 Jahren Erfahrung in Konzeption, Automatisierung und Betrieb produktiver Systeme auf GCP, Azure und AWS. Tiefe praktische Expertise in Terraform, CI/CD (GitHub Actions) und Cloud-nativen Services, mit nachweislicher Reduktion der Deployment-Lead-Time um über 60 %, Vermeidung schwerer Vorfälle und Automatisierung der Cloud-Bereitstellung von Tagen auf Minuten. Erfahren in der Einbindung agentischer Technologien in Engineering-Workflows und in der Stärkung einer ausgeprägten Software-Engineering-Kultur in Teams. Hintergrund in Data Science und ML-Plattform-Support.
+Praxisorientierter **Data / DevOps Engineer** mit über 6 Jahren Erfahrung im Aufbau und Betrieb produktiver Plattformen auf **Azure, AWS und GCP**, mit Schwerpunkt auf **Kubernetes**, **Terraform** und **CI/CD-Automatisierung**. Fundierte Kenntnisse in **Infrastructure-as-Code**, **GitOps**-Delivery, **Container-Infrastrukturen** sowie **Datenpipelines** (Airflow, Kafka, Snowflake). Nachweisliche Reduktion der Deployment-Lead-Time um **über 60 %**, **Vermeidung schwerer Produktionsvorfälle** und Befähigung von Entwicklungs- und AI/Computer-Vision-Teams, auf stabilen und skalierbaren Systemlandschaften schneller zu liefern. Arbeitssprachen **Deutsch & Englisch** (Deutsch A2, aktiv in Verbesserung).
 
 ---
 
 ### Berufserfahrung
 
-**Miguel Dias Consulting, Berlin** | _Berater DevOps & Value Stream Mapping_ | Feb 2025 – heute
+**Miguel Dias Consulting, Berlin** | _Berater DevOps / Plattform_ | Feb 2025 – heute
 
-- **8-wöchiges Projekt auf 2 Wochen komprimiert**, indem der Wertstrom des Kunden kartiert wurde; Umfang um 75 % reduziert bei Erhalt des Kernnutzens.
-- **13 Workshops** in Finanzdienstleistungen, SaaS, Fertigung und Telekom in Helsinki, Berlin, London, Lissabon und online moderiert.
-- Berlin VSM Community gegründet (**über 280 Mitglieder**, Bewertung 4,7/5); Partnerschaften u. a. mit Thoughtworks, Projective Group (London), Productized (Lissabon).
+- Beratung von Enterprise-Teams zu **Kubernetes**, **Terraform**, **CI/CD** und operativer Exzellenz in Finanzdienstleistungen, SaaS, Fertigung und Telekom.
+- **8-wöchiges Projekt auf 2 Wochen komprimiert** durch Kartierung des Delivery-Prozesses und Automatisierung gemeinsam mit Engineering-Leitern.
+- **13 Workshops** in Helsinki, Berlin, London, Lissabon und online moderiert; Partnerschaften u. a. mit Thoughtworks, Projective Group und Productized — Coaching von Engineers und Leads zu **DevOps, IaC und Reliability**.
 
-**RELEX Solutions, Berlin** | _Berater DevOps & Value Stream Mapping_ | Jun 2024 – Feb 2025
+**RELEX Solutions, Berlin** | _DevOps-Berater (Plattform & Delivery)_ | Jun 2024 – Feb 2025
 
-- Verbesserungen der Lieferfähigkeit über **über 15 Teams** hinweg: **Deployment-Lead-Time um 64 % reduziert** (28 auf 10 Tage), **Deployment-Frequenz vervierfacht**.
-- **Schwere Vorfälle vermieden** durch Canary-Deployments und verbesserte Release-Praxis.
-- End-to-end-Messung und Observability der Delivery; bessere teamübergreifende Ausrichtung auf Kundenergebnisse.
+- Verbesserung von **CI/CD und Plattformbetrieb** über **15+ cross-funktionale Teams** mit Enterprise-**Kubernetes**-Multi-Cluster-Workloads: **Deployment-Lead-Time um 64 % reduziert** (28 → 10 Tage), **Deployment-Frequenz vervierfacht** (monatlich → wöchentlich).
+- **Schwere Produktionsvorfälle vermieden** durch Einführung von Canary-Deployments, Rollback-Strategien und verbesserter Release-Governance im **GitOps-Stil**; RCA-Sessions geleitet und Impact/Downtime reduziert.
+- **Runbooks** für Deployment, Rollback und Incident-Handling erstellt; **SLIs/SLOs** definiert; strukturierter Wissenstransfer und Coaching interner Engineers zu Pipelines und Observability.
 
-**RELEX Solutions, Lissabon** | _Cloud-Infrastrukturingenieur_ | Okt 2022 – Jun 2024
+**RELEX Solutions, Lissabon** | _Cloud-Infrastrukturingenieur (Azure)_ | Okt 2022 – Jun 2024
 
-- **Deployment-Zeit um 68 % reduziert** (22 auf 7 Tage) durch Impact-Analyse und strukturierte Roadmap mit Gegenmaßnahmen.
-- Cloud-Bereitstellung auf Azure mit Terraform und Python automatisiert; **Infrastruktur-Setup von Tagen auf Minuten verkürzt**.
-- Ereignisgesteuerte Monitoring-Pipeline (Azure Event Hub + Datadog) mit automatischen Alerts für Echtzeit-Reaktion auf Vorfälle ausgerollt.
-- Cloud-Datentransfer-Lösungen mit Azure Data Factory konzipiert und deployed; Konnektivität über mehrere Cloud-Plattformen hinweg.
-- Azure-Ressourcen mit Kafka für ereignisgesteuertes Tracking von Cloud-Provisioning über Dutzende Teams integriert.
+- Betrieb **Azure-basierter Cloud- und Container-Infrastruktur** (AKS, Event Hub, Data Factory) für Enterprise-Retail- und Supply-Chain-Kunden, inkl. Integrationen zu On-Prem- und Partnersystemen.
+- Modulare **Infrastructure-as-Code mit Terraform** sowie Self-Service-Provisionierungsportal (Django, Python) aufgebaut; **Umgebungs-Setup von Tagen auf Minuten verkürzt** über Dutzende Teams hinweg.
+- Ereignisgesteuerte **Daten- und Observability-Pipeline** (Azure Event Hub + **Kafka** + Datadog) mit automatischen Alerts für Echtzeit-Incident-Response und teamübergreifendes Provisioning-Tracking konzipiert und betrieben.
+- **Deployment-Lead-Time um 68 % reduziert** (22 → 7 Tage) durch Impact- und Root-Cause-Analyse sowie strukturierte Automatisierungs-Roadmap.
+- Architekturentscheidungen zu Cloud-Datentransfer (**Azure Data Factory**) und ereignisgesteuerten Integrationen für AI-/Analytics-Teams mitgestaltet.
 
-**Lisbon Data Science Academy** | _Leitung Engineering / DevOps-Ingenieur_ | Mär 2020 – Jan 2023
+**Lisbon Data Science Academy, Lissabon** | _Leitung Engineering / DevOps-Ingenieur_ | Mär 2020 – Jan 2023
 
-- Engineering für eine Plattform mit **über 900 Studierenden** (Django, Kubernetes, AWS); gesamter Lebenszyklus der Studierenden.
-- CI/CD-Pipelines für automatisierte Tests, Releases und Bewertung; Services mit Docker und FastAPI deployed.
-- Team von Datenwissenschaftler:innen bei ML-gestützten Bildungs-Tools und Hackathons begleitet.
+- Betrieb einer Plattform auf **AWS und Kubernetes** für über 900 Nutzer:innen: gesamter Cluster-Lebenszyklus, Deployments, Monitoring und On-Call-**Incident-Response**.
+- **CI/CD-Pipelines** für automatisierte Tests, Releases und Bewertung implementiert; containerisierte Services (Python, FastAPI, **Docker**) auf **AWS Fargate** und Kubernetes deployed.
+- Team von Engineers und Instructors **geführt und gecoached**; Juniors praktisch begleitet, vielgenutzter Python-Entwicklungsleitfaden verfasst.
 
-**DareData, Lissabon** | _Dateningenieur_ | Nov 2021 – Jun 2022
+**DareData, Lissabon** | _Data Engineer (AICEP, NOS)_ | Nov 2021 – Jun 2022
 
-- NLP/CV-Dokumentenverarbeitung auf GCP; **Suchverfügbarkeit um 75 % erhöht** (Elasticsearch, neo4j).
-- ETL-Pipelines mit Airflow auf Google Cloud Composer entwickelt.
+- **NLP- und Computer-Vision-Dokumentenverarbeitung** auf GCP aufgebaut; **Suchverfügbarkeit um 75 % erhöht** (Elasticsearch, neo4j) — End-to-end-Ingestion-, Processing- und Indexing-Pipeline für KI-gestützte Suche.
+- **ETL-Pipelines mit Airflow** auf GCP (Cloud Composer) entwickelt und Stateful-Services deployed.
+- Datenpipelines auf **On-Prem Oracle/Hive** (SQL, Bash) aufgebaut; Onboarding-Zeit neuer Data Engineers **um 3 Monate verkürzt**.
+
+**Bond Touch, Lissabon** | _Data / Platform Engineer_ | Feb 2020 – Jul 2021
+
+- Produktive Datenplattform auf **AWS** (EC2, S3, Kinesis Firehose, **Snowflake**) vollständig mit **Terraform** provisioniert.
+- Mobile- und Cloud-Datenaufnahme konzipiert; interne Services auf **AWS ECS / Fargate** mit Terraform-verwaltetem Networking, IAM und Logging deployed.
 
 ---
 
@@ -53,7 +59,7 @@ Cloud-Infrastruktur- und DevOps-Ingenieur mit über 6 Jahren Erfahrung in Konzep
 
 **Universität Lissabon** | Graduiertenstudium Richtung MSc Data Science (Cloud Computing, ML) | 2018 – 2019
 
-- Kubernetes-Cluster auf GCP entwickelt; Performance von Reinforcement-Learning-Algorithmen verbessert.
+- **Kubernetes-Cluster auf GCP** für verteilte Reinforcement-Learning-Workloads entwickelt.
 
 **Universität Lissabon** | BSc Software Engineering | 2014 – 2019
 
@@ -61,15 +67,18 @@ Cloud-Infrastruktur- und DevOps-Ingenieur mit über 6 Jahren Erfahrung in Konzep
 
 ### Technische Kompetenzen
 
-- **Cloud & Infrastruktur**: GCP, Azure, AWS, Terraform (Provider & Module), Kubernetes, Docker
-- **CI/CD & Observability**: GitHub Actions, Datadog, Grafana, automatisierte Deployment-Pipelines
-- **Cloud-Konnektivität**: VPC/VNET, DNS, Load Balancing, Hybrid-Cloud-Integration
-- **Programmierung**: Python, Bash, SQL (PostgreSQL, MySQL), Java
-- **Data / ML**: Airflow, Spark, Kafka, Snowflake, scikit-learn, Pandas
-- **Praktiken**: Infrastructure as Code, Value Stream Mapping, Lean, Agile
+- **Cloud**: **Azure** (AKS, Event Hub, Data Factory, Storage), **AWS** (EKS, ECS, Fargate, S3, Lambda, IAM, VPC, Kinesis), **GCP** (GKE, Cloud Composer); Cloud, Hybrid und On-Prem
+- **Kubernetes & Container**: AKS, EKS, GKE und selbstverwaltete Cluster; Multi-Cluster-Betrieb, **Helm**, Upgrades, Stateful Workloads, **Docker**
+- **Infrastructure-as-Code**: **Terraform / OpenTofu**, Ansible, **GitOps**-Delivery-Workflows
+- **CI/CD & Automatisierung**: **GitHub Actions**, GitLab CI, Azure DevOps, Jenkins; automatisierte Infra- und App-Deployments
+- **Data Engineering**: **Airflow** (Cloud Composer), **Kafka**, **Snowflake**, Spark, Elasticsearch, neo4j, Oracle, Hive, ETL/ELT-Pipelines
+- **Scripting**: **Python**, Bash, SQL; interne Tools, Provisioning-Portale, Automatisierung
+- **Observability**: **Prometheus**, **Grafana**, **Datadog**, OpenTelemetry, Alerting, **SLIs/SLOs**, **Runbooks**, Root-Cause-Analyse
+- **AI/CV-Bezug**: NLP- und Computer-Vision-Pipelines, ML-Plattform-Support für Data-Science-Teams
+- **Arbeitsweise**: cross-funktionale Teams, Pair Programming, Coaching von Juniors, Architektur- & Strategiebeiträge
 
 ---
 
 ### Sprachen
 
-Portugiesisch (Muttersprache) – Englisch (Fließend) – Deutsch (A2) – Spanisch (B1)
+Portugiesisch (Muttersprache) – Englisch (Fließend, C1+) – Deutsch (A2, aktiv in Verbesserung) – Spanisch (B1)
