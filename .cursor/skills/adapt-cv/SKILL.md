@@ -10,7 +10,9 @@ Do the minimal changes to `Resume.md` to adapt it to the job listing (URL or pas
 Also adapt the message template below to suit the job. Keep it the same length (one achievement sentence). The sentence should concisely touch on the top key responsibilities/requirements in the listing (not just one), and must stay faithful to `CV.md` — do not embellish or imply scope Miguel didn't have.
 
 ```
-Hi ___________,
+Hi <person of contact>,
+
+The <position title> position looks like it might be a strong fit:
 
 At RELEX, I managed Terraform infrastructure for large enterprise clients and helped multiple teams cut deployment time by 64% (going from monthly to weekly) and eliminate production incidents.
 
@@ -20,3 +22,4 @@ https://calendly.com/migueldiaseu/
 Best,
 Miguel
 ```
+
