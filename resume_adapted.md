@@ -1,6 +1,6 @@
 # Miguel Dias
 
-## Engineering Manager — Platform / Developer Experience
+## Senior DevOps / Cloud Engineer — CI/CD & Platform Automation
 
 Berlin, Germany
 
@@ -10,47 +10,47 @@ Berlin, Germany
 
 ### Profile
 
-Engineering leader with 6+ years building and scaling **platform, DevOps and SRE capabilities** across AWS, Azure and GCP, combined with hands-on **engineering management** of cross-functional teams. I treat **platform as a product**: partnering with product teams, mapping their delivery flow, and building the "paved road" that lets them ship with minimal friction. Track record of **cutting deployment lead time by 60%+**, **eliminating major production incidents** and coaching engineers into higher-performing, more autonomous teams. Comfortable with ambiguity — I turn vague problem statements into concrete roadmaps, build the business case, get buy-in and drive initiatives to true 100% completion.
+DevOps / Cloud Engineer with 6+ years building **CI/CD pipelines, Kubernetes platforms and internal automation APIs** across Azure, AWS and GCP. I take manual, error-prone delivery steps — compliance checks, approvals, environment setup, deployments — and turn them into **auditable, self-service automation** using GitHub Actions, Helm, Terraform and Python. Track record of **cutting deployment lead time by 60%+**, **eliminating major production incidents** through release governance and canary deployments, and building platform capabilities that product teams actually adopt. Comfortable owning an automation initiative end-to-end: from rough concept, through authorization design and API integrations, to a running pipeline in production.
 
 ---
 
 ### Experience
 
-**Miguel Dias Consulting, Berlin** | _Platform & Delivery Consultant_ | Feb 2025 -- Present
+**Miguel Dias Consulting, Berlin** | _DevOps & Platform Consultant_ | Feb 2025 -- Present
 
-- Advise engineering leaders (EMs, Heads of Engineering, CTOs) on **platform strategy, developer experience, infrastructure and SRE practices** across financial services, SaaS, manufacturing and telecom.
-- **Compressed an 8-week project into 2 weeks** by mapping the client's value stream and focusing the team on the highest-impact work — a concrete example of driving execution to 100% rather than stopping at 80%.
-- Founded the **Berlin VSM Community (280+ members, 4.7/5 rating)** and facilitated **13 expert-led workshops** in Helsinki, Berlin, London, Lisbon and online, partnering with Thoughtworks, Projective Group and Productized — acting as a talent magnet and coach in the Berlin engineering scene.
+- Advise engineering teams on **CI/CD, Kubernetes, GitOps and release governance** across financial services, SaaS, manufacturing and telecom.
+- **Compressed an 8-week delivery into 2 weeks** by mapping the client's value stream, removing manual hand-offs and automating the highest-friction steps of their pipeline.
+- Facilitated **13 expert-led workshops** (Berlin, London, Lisbon, Helsinki, online) on DevOps, continuous delivery and flow — partnering with Thoughtworks, Projective Group and Productized.
 
-**RELEX Solutions, Berlin** | _Platform & Delivery Lead (Consultant)_ | Jun 2024 -- Feb 2025
+**RELEX Solutions, Berlin** | _DevOps / Platform Lead (Consultant)_ | Jun 2024 -- Feb 2025
 
-- Worked as an embedded platform/delivery lead across **15+ product and platform teams** running enterprise **Kubernetes** workloads — shaped roadmap, scope and trade-offs together with senior engineers and EMs.
-- **Reduced deployment lead time by 64%** (28 → 10 days) and **quadrupled deployment frequency** from monthly to weekly by building a shared "paved road" for CI/CD, release governance and canary deployments.
-- **Eliminated major production incidents** for a flagship team by introducing canary deployments, rollback strategies and structured **root cause analysis**; defined **SLIs/SLOs** and runbooks adopted across teams.
-- Coached engineers and tech leads on delivery practices, observability and ownership; managed expectations and dependencies with multiple EMs and Directors of Engineering.
+- Embedded platform/DevOps engineer across **15+ teams running enterprise Kubernetes workloads**, extending shared **CI/CD pipelines (GitHub Actions, Helm, YAML)** used across product and platform teams.
+- Designed and rolled out **release governance**: automated approval/compliance checks, canary deployments and rollback strategies — **eliminating major production incidents** for a flagship team and replacing manual gate-keeping with auditable pipeline steps.
+- **Reduced deployment lead time by 64%** (28 → 10 days) and **quadrupled deployment frequency** from monthly to weekly by introducing GitOps-style workflows, standardised Helm charts and structured root cause analysis.
+- Defined SLIs/SLOs, runbooks and ownership boundaries adopted across multiple teams; coordinated closely with EMs, Staff Engineers and Directors of Engineering in an agile setup.
 
-**RELEX Solutions, Lisbon** | _Cloud Infrastructure Engineer (Azure, Platform)_ | Oct 2022 -- Jun 2024
+**RELEX Solutions, Lisbon** | _Cloud Infrastructure Engineer (Azure / Kubernetes / IaC)_ | Oct 2022 -- Jun 2024
 
-- Built core platform capabilities for enterprise customers on **Azure** (AKS, Event Hub, Data Factory) with **Terraform**-based Infrastructure-as-Code.
-- Developed a **self-service cloud provisioning portal** (Django, Python, Terraform) used by dozens of teams, **cutting environment setup from days to minutes** — platform-as-a-product thinking applied to internal developers.
-- Designed an **event-driven observability pipeline** (Azure Event Hub + Kafka + Datadog) with automated alerting, enabling real-time incident response and cross-team visibility into provisioning initiatives.
-- **Reduced deployment lead time by 68%** (22 → 7 days) by leading impact analysis and driving a structured automation roadmap with the team.
+- Built core platform capabilities on **Azure (AKS, Event Hub, Data Factory)** with **Terraform** Infrastructure-as-Code and **Helm/YAML** Kubernetes manifests.
+- Developed a **self-service provisioning platform** (Django + Python API + Terraform) used by dozens of teams — **cutting environment setup from days to minutes** and replacing a manual, ticket-driven process with an API-first workflow including authorization, audit logging and status tracking.
+- Designed an **event-driven observability and tracking pipeline** (Azure Event Hub + Kafka + Datadog) that scraped provisioning events across teams and surfaced their status to a central dashboard — conceptually similar to integrating GitHub/Jira issues into a central change-management system.
+- **Reduced deployment lead time by 68%** (22 → 7 days) by leading impact analysis and driving a concrete automation roadmap with the team.
+- Extended **CI/CD pipelines** and integrated them with Kubernetes deployments and cloud provisioning APIs.
 
 **Lisbon Data Science Academy, Lisbon** | _Head of Engineering_ | Mar 2022 -- Jan 2023
 
-- **Led the engineering team** running the internal education platform for **900+ students** (Django, Kubernetes, AWS) — owned roadmap, hiring input, performance and growth of engineers and instructors.
-- Built a collaborative, high-ownership culture: weekly 1:1s, technical mentoring, clear scope and trade-off decisions, moving the team from ad-hoc fixes to structured delivery.
-- Shipped platform features end-to-end (hackathons, submissions, grading, student lifecycle) on Django, FastAPI, Docker and **AWS Fargate**.
+- Led the engineering team running the platform for **900+ students** on **Django, Kubernetes and AWS** — owned roadmap, delivery and platform reliability.
+- Built internal **APIs and services** (Django REST Framework, FastAPI, Docker, AWS Fargate) for submissions, grading and the full student lifecycle.
 
-**Lisbon Data Science Academy, Lisbon** | _DevOps Engineer / Instructor_ | Mar 2020 -- Mar 2022
+**Lisbon Data Science Academy, Lisbon** | _DevOps Engineer_ | Mar 2020 -- Mar 2022
 
-- Implemented **CI/CD pipelines** for testing, releasing and automatic grading of learning materials; authored a widely used Python development environment guide still referenced by students.
-- Mentored data scientists and junior engineers during hackathons and capstone projects; quality-assured curriculum used by hundreds of students.
+- Implemented **CI/CD pipelines** for testing, releasing and **automated grading** of learning materials — a pipeline-driven, auditable alternative to manual review.
+- Authored the team's **Python development environment guide**, still referenced by students years later.
 
-**DareData, Lisbon** | _Data Engineer (AICEP, NOS)_ | Nov 2021 -- Jun 2022
+**DareData, Lisbon** | _Data / Platform Engineer_ | Nov 2021 -- Jun 2022
 
-- Built an NLP + Computer Vision document processing application on GCP, **increasing search availability by 75%** (Elasticsearch, neo4j) with Airflow-based ETL on Cloud Composer.
-- Authored onboarding materials that **reduced Data Engineer onboarding time by 3 months**, an early example of treating internal enablement as a product.
+- Built an NLP + Computer Vision document processing application on **GCP**, **increasing searchable document availability by 75%** (Elasticsearch, neo4j, Airflow on Cloud Composer) — including automated **PDF/document processing pipelines**.
+- Wrote ETL processes and deployed neo4j and Elasticsearch services to GCP.
 
 **Bond Touch, Lisbon** | _Data / Platform Engineer_ | Feb 2020 -- Jul 2021
 
@@ -60,28 +60,22 @@ Engineering leader with 6+ years building and scaling **platform, DevOps and SRE
 
 ### Education
 
-**University of Lisbon** | Graduate work towards MSc in Data Science (cloud computing, ML) | 2018 -- 2019
+**University of Lisbon** | Graduate work towards MSc in Data Science (cloud computing, Kubernetes on GCP, ML) | 2018 -- 2019
 
-**University of Lisbon** | BSc in Software Engineering | 2014 -- 2019
+**University of Lisbon** | BSc in Software Engineering (security, reliability, software architecture) | 2014 -- 2019
 
 ---
 
-### Leadership & Platform Skills
-
-- **Engineering management**: team growth, 1:1s, performance & career development, hiring input, coaching tech leads
-- **Platform strategy**: platform-as-a-product, developer experience, paved roads, internal tooling, self-service
-- **Delivery excellence**: CI/CD, GitOps, canary & progressive delivery, release governance, SLIs/SLOs, runbooks, incident response
-- **Execution**: scoping ambiguous problems, trade-off decisions, driving initiatives to true 100% completion
-- **Stakeholder management**: working with EMs, Staff Engineers, Directors and product leaders on dependencies and roadmap
-- **Communication**: facilitation, workshops, written communication, community building (280+ members)
-
 ### Technical Skills
 
-- **Cloud & Kubernetes**: Azure (AKS), AWS (EKS, ECS, Fargate), GCP (GKE, Cloud Composer); multi-cluster ops, Helm
-- **Infrastructure-as-Code**: Terraform / OpenTofu, Ansible, GitOps workflows
-- **CI/CD & Automation**: GitHub Actions, GitLab CI, Azure DevOps, Jenkins
-- **Observability**: Prometheus, Grafana, Datadog, OpenTelemetry, alerting, SLIs/SLOs
-- **Data & Backend**: Python, Bash, SQL, Django, FastAPI, Airflow, Kafka, Snowflake, Spark
+- **CI/CD & GitOps**: GitHub Actions, ArgoCD (familiar), GitLab CI, Jenkins, Azure DevOps, release governance, canary & progressive delivery, compliance/approval automation
+- **Kubernetes & Containers**: Kubernetes (AKS, EKS, GKE), Helm, YAML manifests, Docker; Kubernetes-based platform patterns transferable to OpenShift
+- **Infrastructure-as-Code**: Terraform / OpenTofu, Ansible
+- **Programming**: **Python** (Django, FastAPI, Django REST Framework — API development), Bash, SQL; working knowledge of Go, Java, Kotlin
+- **Cloud**: Azure (AKS, Event Hub, Data Factory), AWS (EKS, ECS, Fargate, S3, Kinesis), GCP (GKE, Cloud Composer)
+- **Observability & Reliability**: Prometheus, Grafana, Datadog, OpenTelemetry, SLIs/SLOs, runbooks, incident response
+- **Integration & Data**: REST APIs, Kafka, Airflow, Snowflake, Elasticsearch, event-driven pipelines
+- **Ways of working**: Agile (Scrum, Kanban), Value Stream Mapping, cross-team collaboration
 
 ---
 
