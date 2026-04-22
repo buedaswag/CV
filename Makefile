@@ -15,6 +15,6 @@ clean:
 	rm -f $(PDFS)
 
 # German resume (also built by `all` via pattern rule); explicit target for convenience
-resume-de: resume_adapted_deutche.pdf
+resume-de: resume_adapted_deutsche.pdf
 
 .PHONY: all clean resume-de
