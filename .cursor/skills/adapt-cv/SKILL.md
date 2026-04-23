@@ -23,12 +23,21 @@ Best,
 Miguel
 ```
 
+## Output language
+
+Write the message in the same language as the input (job description / recruiter message). If that language is German, always provide both a German and an English version.
+
 ## German language caveat
 
-If the job description or recruiter message is in German, or the listing requires German (e.g. "fließend Deutsch", "German C1/C2", "German native"), add a short caveat right before "Worth a quick 15min chat?", for example:
+Add a short caveat right before "Worth a quick 15min chat?":
 
-```
-This role looks really interesting, though my German isn't yet at the level required — if you have other openings without that requirement, I'd love to hear about them too.
-```
+- If the listing requires German (e.g. "fließend Deutsch", "German C1/C2", "German native"):
+  ```
+  This role looks really interesting, though my German isn't yet at the level required — if you have other openings without that requirement, I'd love to hear about them too.
+  ```
+- Else if the input is in German but no German requirement is stated, use a lighter heads-up instead:
+  ```
+  Just a heads-up: I'm fluent in English but still early in learning German.
+  ```
 
-Skip the caveat when German is only a "nice to have" / "plus", or when no language requirement is stated.
+Skip the caveat entirely when German is only a "nice to have" / "plus", or when the input is in English with no language requirement.
