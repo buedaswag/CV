@@ -5,7 +5,17 @@ description: Adapts Miguel's Resume.md to a specific job listing and rewrites th
 
 # Adapt CV to Job Listing
 
-Do the minimal changes to `Resume.md` to adapt it to the job listing (URL or pasted text — fetch the URL if given, ask for the text if the fetch fails). Take inspiration from `CV.md` which is more complete. Write the result to `resume_adapted.md`.
+Do the minimal changes to `cv/Resume.md` to adapt it to the job listing (URL or pasted text — fetch the URL if given, ask for the text if the fetch fails). Take inspiration from `cv/CV.md` which is more complete. Write the result to `cv/adapted/cv-miguel-dias-<company>-<position>.md`.
+
+### File naming
+
+- All lowercase, ASCII only — strip umlauts/diacritics (`ö` → `o`, `ß` → `ss`, `é` → `e`, etc.).
+- Words separated by `-`.
+- `<company>`: company name, kebab-cased (e.g. `amazon`, `deutsche-bahn`).
+- `<position>`: job title from the listing, kebab-cased, punctuation dropped (e.g. `systems-development-engineer`, `senior-devops-engineer`).
+- Append `-de` when the CV is written in German (e.g. `cv-miguel-dias-deutsche-bahn-senior-devops-engineer-de.md`).
+
+This unique-per-job naming lets several agents adapt CVs in parallel without clobbering each other.
 
 Also adapt the message template below to suit the job. Keep it the same length (one achievement sentence). The sentence should concisely touch on the top key responsibilities/requirements in the listing (not just one), and must stay faithful to `CV.md` — do not embellish or imply scope Miguel didn't have.
 

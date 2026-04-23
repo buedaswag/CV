@@ -2,12 +2,12 @@
 
 ## Adapting my CV
 
-Can you do the minimal changes to my resume.md to adapt it to the job listing?
+Can you do the minimal changes to my cv/Resume.md to adapt it to the job listing?
 
 <Job Link>
 
-Take inspiration from my cv.md which is more complete
-Produce a new version of the resume.md file, call it resume_adapted.md
+Take inspiration from my cv/CV.md which is more complete
+Produce a new version of the Resume.md file, call it cv/adapted/cv-miguel-dias-<company>-<position>.md (all lowercase ASCII, kebab-case; append `-de` for German). This unique-per-job naming lets me run several adaptations in parallel without overwriting each other.
 
 Also adapt this message template to suit the job. Keep it the same length (one achievement sentence). The sentence should concisely touch on the top key responsibilities/requirements in the listing (not just one), and must stay faithful to my CV — do not embellish or imply scope I didn't have.
 
@@ -39,7 +39,7 @@ sudo tlmgr install titlesec
 make
 
 # build a single CV
-make CV.pdf
+make cv/CV.pdf
 
 # clean all generated PDFs
 make clean
