@@ -45,3 +45,5 @@ Skip the caveat entirely when German is only a "nice to have" / "plus", or when 
 ## Rate
 
 My hourly rate starts at 80 euros/h
+
+## Location
