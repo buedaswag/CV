@@ -23,3 +23,12 @@ Best,
 Miguel
 ```
 
+## German language caveat
+
+If the job description or recruiter message is in German, or the listing requires German (e.g. "fließend Deutsch", "German C1/C2", "German native"), add a short caveat right before "Worth a quick 15min chat?", for example:
+
+```
+This role looks really interesting, though my German isn't yet at the level required — if you have other openings without that requirement, I'd love to hear about them too.
+```
+
+Skip the caveat when German is only a "nice to have" / "plus", or when no language requirement is stated.
