@@ -41,3 +41,7 @@ Add a short caveat right before "Worth a quick 15min chat?":
   ```
 
 Skip the caveat entirely when German is only a "nice to have" / "plus", or when the input is in English with no language requirement.
+
+## Rate
+
+My hourly rate starts at 80 euros/h
