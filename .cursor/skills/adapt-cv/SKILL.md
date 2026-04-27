@@ -7,6 +7,10 @@ description: Adapts Miguel's Resume.md to a specific job listing and rewrites th
 
 Do the minimal changes to `cv/Resume.md` to adapt it to the job listing (URL or pasted text — fetch the URL if given, ask for the text if the fetch fails). Take inspiration from `cv/CV.md` which is more complete. Write the result to `cv/adapted/cv-miguel-dias-<company>-<position>.md`.
 
+### Build the PDF
+
+The PDF is built automatically after each agent turn by a `stop` hook ([.cursor/hooks/build-pdf.sh](../../hooks/build-pdf.sh), registered in [.cursor/hooks.json](../../hooks.json)) that runs `make`. If the build fails or produces font warnings, the hook surfaces the error back as a follow-up message. You don't need to run `make` yourself.
+
 ### File naming
 
 - All lowercase, ASCII only — strip umlauts/diacritics (`ö` → `o`, `ß` → `ss`, `é` → `e`, etc.).
@@ -16,6 +20,17 @@ Do the minimal changes to `cv/Resume.md` to adapt it to the job listing (URL or 
 - Append `-de` when the CV is written in German (e.g. `cv-miguel-dias-deutsche-bahn-senior-devops-engineer-de.md`).
 
 This unique-per-job naming lets several agents adapt CVs in parallel without clobbering each other.
+
+### Characters to avoid
+
+Do not use `→` (U+2192) or `↔` (U+2194) in the adapted CV — Helvetica has no glyphs for them and pandoc drops them with a warning. Use ASCII alternatives instead:
+
+- `28 → 10 days` becomes `28 -> 10 days` (or `from 28 to 10 days`)
+- `monthly → weekly` becomes `monthly -> weekly`
+- `Cloud Engineer → Platform Consultant` becomes `Cloud Engineer -> Platform Consultant`
+- `CI/CD ↔ Monitoring` becomes `CI/CD <-> Monitoring`
+
+This applies to both English and German output.
 
 Also adapt the message template below to suit the job. Keep it the same length (one achievement sentence). The sentence should concisely touch on the top key responsibilities/requirements in the listing (not just one), and must stay faithful to `CV.md` — do not embellish or imply scope Miguel didn't have.
 
